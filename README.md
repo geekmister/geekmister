@@ -1,4 +1,4 @@
-<img src="https://github.com/geekmister/images/cover-drawing.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/geekmister/geekmister/master/images/cover-drawing.png"/>
 
 ## Hey 👋, I'm [Geekmister!](https://github.com/geekmister/)
 
