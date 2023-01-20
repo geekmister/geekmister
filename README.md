@@ -10,11 +10,13 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I'm a graduate in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm Geekmister, it's my nickname! Why am i called that? Because I adore the geek spirit, the power to change the world when you move your fingertips!
 
-Joined Github **4** years ago.
+I majored in computer technology at university and I like it very much. After graduation, I have been engaged in the computer technology industry for ten years, during which I trained myself as a full-stack development engineer.
 
-Since then I pushed **2540**+ commits, opened **229**+ issues, submitted **280**+ pull requests, created **20**+ gists and contributed to **25**+ public repositories.
+Since I registered my github account 10 years ago, I haven't used it very often. In the second decade of my career, I want to put my technology sharing on github! Welcome to follow me!
+
+Then you can learn more about me through the following content...
 
 Like My Work?
 
