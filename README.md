@@ -10,13 +10,13 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I'm Geekmister, it's my nickname! Why am i called that? Because I adore the geek spirit, the power to change the world when you move your fingertips!
+I'm Geekmister, it's my nickname! 😊 Why am i called that? ❓ Because I adore the geek spirit, the power to change the world when you move your fingertips! 💭
 
-I majored in computer technology at university and I like it very much. After graduation, I have been engaged in the computer technology industry for ten years, during which I trained myself as a full-stack development engineer.
+I majored in computer technology at university and I like it very much. 😍 After graduation, I have been engaged in the computer technology industry for ten years, during which I trained myself as a full-stack development engineer. ✊
 
-Since I registered my github account 10 years ago, I haven't used it very often. In the second decade of my career, I want to put my technology sharing on github! Welcome to follow me!
+Since I registered my github account 10 years ago, I haven't used it very often. In the second decade of my career, I want to put my technology sharing on github! Welcome to follow me! 👍
 
-Then you can learn more about me through the following content...
+Then you can learn more about me through the following content... 👇
 
 Like My Work?
 
