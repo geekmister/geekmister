@@ -38,7 +38,7 @@
     </thead>
     <tbody>
       <tr>
-      	<td><a href="https://github.com/geekmister/gm-blog-web"><b> 🚀 gm-blog</b></a></td>
+      	<td><a href="https://github.com/geekmister/gm-blog-web"><b> &nbsp; :spider_web: gm-blog</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-blog-web?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-blog-web?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-blog-web?style=flat-square"/></td>
@@ -46,7 +46,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-blog-web?style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/uiautotest"><b> 💸 uiautotest</b></a></td>
+      	<td><a href="https://github.com/geekmister/uiautotest"><b> &nbsp; :hammer_and_pick: uiautotest</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/uiautotest-desktop?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/uiautotest-desktop?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/uiautotest-desktop?style=flat-square"/></td>
@@ -54,7 +54,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/uiautotest-desktop?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/personal-cloud"><b>🏻‍💻 personal-cloud</b></a></td>
+      	<td><a href="https://github.com/geekmister/personal-cloud"><b> &nbsp; :person_in_tuxedo: personal-cloud</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/personal-cloud-desktop?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/personal-cloud-desktop?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/personal-cloud-desktop?style=flat-square"/></td>
@@ -62,7 +62,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/personal-cloud-desktop?style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/programmer-box"><b> :package: programmer-box</b></a></td>
+      	<td><a href="https://github.com/geekmister/programmer-box"><b> &nbsp; :toolbox: programmer-box</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/programmer-box-desktop?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/programmer-box-desktop?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/programmer-box-desktop?style=flat-square"/></td>
@@ -70,7 +70,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/programmer-box-desktop?style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/cs-study-guide"><b> :books: cs-study-guide</b></a></td>
+      	<td><a href="https://github.com/geekmister/cs-study-guide"><b> &nbsp; :books: cs-study-guide</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/cs-study-guide?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/cs-study-guide?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/cs-study-guide?style=flat-square"/></td>
@@ -78,7 +78,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/cs-study-guide?style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/geekmister"><b>🤓 geekmister</b></a></td>
+      	<td><a href="https://github.com/geekmister/geekmister"><b> &nbsp; 🤓 geekmister</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/geekmister?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/geekmister?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/geekmister?style=flat-square"/></td>
@@ -86,7 +86,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/geekmister?style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/code-snippet"><b>🤓 code-snippet</b></a></td>
+      	<td><a href="https://github.com/geekmister/code-snippet"><b> &nbsp; :fire: code-snippet</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/code-snippet?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/code-snippet?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/code-snippet?style=flat-square"/></td>
@@ -94,7 +94,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/code-snippet?style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/gather-wool"><b>🤓 gather-wool</b></a></td>
+      	<td><a href="https://github.com/geekmister/gather-wool"><b> &nbsp; :sheep: gather-wool</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gather-wool?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gather-wool?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gather-wool?style=flat-square"/></td>
@@ -102,7 +102,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gather-wool?style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/appium-app-autotest"><b>🤓 appium-app-autotest</b></a></td>
+      	<td><a href="https://github.com/geekmister/appium-app-autotest"><b> &nbsp; :hammer_and_wrench: appium-app-autotest</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/appium-app-autotest-client?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/appium-app-autotest-client?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/appium-app-autotest-client?style=flat-square"/></td>
@@ -110,7 +110,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/appium-app-autotest-client?style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/cs-translate"><b>🤓 cs-translate</b></a></td>
+      	<td><a href="https://github.com/geekmister/cs-translate"><b> &nbsp; :computer: cs-translate</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/cs-translate?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/cs-translate?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/cs-translate?style=flat-square"/></td>
