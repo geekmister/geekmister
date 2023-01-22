@@ -1,162 +1,135 @@
 <img width="100%" src="https://raw.githubusercontent.com/geekmister/geekmister/master/images/cover-drawing-en.png"/>
 
-# Hey 👋, I'm [Geekmister](https://github.com/geekmister/)!
+## Hi, I'm &nbsp;[Geekmister](https://github.com/geekmister/)！&nbsp;👋 👋 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/geekmister)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://geekmisterblog.blogspot.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MrGeekmister/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/MrGeekmister/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
+![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
 
-## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
+### :point_right: &nbsp;  很高兴在这里遇到你！&nbsp; 🎉
 
-I'm Geekmister, it's my nickname 😊! Why am i called that? Because I adore the geek spirit, the power to change the world when you move your fingertips 🖐️! 
+我是极客先生，这个名字是昵称，因为我崇尚极客精神 😃 ~ 指尖舞动间有改变世界的力量！ 🖐️（哈哈，这只是一种精神力量，不喜勿喷） 🙏
 
-I majored in computer technology at university and I like it very much 😍. After graduation, I have been engaged in the computer technology industry for ten years, during which I trained myself as a full-stack development engineer. ✊
+在大学时期学习的计算机技术专业，我非常喜欢这门学科，可能是童年受到了黑客帝国这部电影的影响总觉得写程序是一件很酷的事情 🆒。从毕业后到现在已经从事程序员行业十年了， 👍 在这期间我努力把自己训练成全栈研发工程师，现在已经可以从产品设计 -> UI设计 -> 软件研发 -> 软件测试 -> 系统运维 -> 线上运营多个维度独立研发一款产品。工作之余也会研发一些小工具、写写技术博客以文会友、不断地学习新知识 ✊。
 
-Since I registered my github account 10 years ago, I haven't used it very often. In the second decade of my career, I want to put my technology sharing on github! Welcome to follow me! 👍
+**我非常认同一点：持续学习、深度学习是程序员必须养成的习惯！** 👏
 
-Then you can learn more about me through the following content... 👇
+自2018年注册了Github账号后不经常使用 😭，准备在自己职业生涯第二个十年开启之际想将自己10年来的积累分享到Github上，不只有开源代码也有所思所想 📣！欢迎大家关注我！ 😏
 
-Like My Work?
+接下来可以通过下面的内容更加详细地了解我，同时赏饭请点击下面按钮！ 😍 🍗
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/geekmister" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+### :point_right: &nbsp; 开源项目 &nbsp; :open_hands:
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
-### Talking about Personal Stuffs:
-
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
-
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
-
-### Projects and Dev Stuffs:
-
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
-</details>
-
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
+<table>
     <thead align="center">
       <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
+        <td><b> 💻 Projects</b></td>
+        <td><b> 🌟 Stars</b></td>
+        <td><b> 🍴 Forks</b></td>
+        <td><b> 🐛 Issues</b></td>
+        <td><b> 🔔 Pull Requests</b></td>
+        <td><b> 👨‍💻 Language</b></td>
       </tr>
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
+      	<td><a href="https://github.com/geekmister/gm-blog-web"><b> &nbsp; :spider_web: gm-blog</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-blog-web?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-blog-web?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-blog-web?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-blog-web?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-blog-web?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
+      	<td><a href="https://github.com/geekmister/uiautotest"><b> &nbsp; :hammer_and_pick: uiautotest</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/uiautotest-desktop?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/uiautotest-desktop?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/uiautotest-desktop?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/uiautotest-desktop?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/uiautotest-desktop?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
+      	<td><a href="https://github.com/geekmister/personal-cloud"><b> &nbsp; :person_in_tuxedo: personal-cloud</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/personal-cloud-desktop?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/personal-cloud-desktop?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/personal-cloud-desktop?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/personal-cloud-desktop?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/personal-cloud-desktop?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/iampavangandhi"><b>🤓 iampavangandhi</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/iampavangandhi?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/iampavangandhi?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/iampavangandhi?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td>
+      	<td><a href="https://github.com/geekmister/programmer-box"><b> &nbsp; :toolbox: programmer-box</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/programmer-box-desktop?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/programmer-box-desktop?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/programmer-box-desktop?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/programmer-box-desktop?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/programmer-box-desktop?style=flat-square"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/geekmister/cs-study-guide"><b> &nbsp; :books: cs-study-guide</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/cs-study-guide?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/cs-study-guide?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/cs-study-guide?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/cs-study-guide?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/cs-study-guide?style=flat-square"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/geekmister/geekmister"><b> &nbsp; 🤓 geekmister</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/geekmister?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/geekmister?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/geekmister?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/geekmister?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/geekmister?style=flat-square"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/geekmister/code-snippet"><b> &nbsp; :fire: code-snippet</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/code-snippet?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/code-snippet?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/code-snippet?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/code-snippet?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/code-snippet?style=flat-square"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/geekmister/gather-wool"><b> &nbsp; :sheep: gather-wool</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gather-wool?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gather-wool?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gather-wool?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gather-wool?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gather-wool?style=flat-square"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/geekmister/appium-app-autotest"><b> &nbsp; :hammer_and_wrench: appium-app-autotest</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/appium-app-autotest-client?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/appium-app-autotest-client?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/appium-app-autotest-client?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/appium-app-autotest-client?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/appium-app-autotest-client?style=flat-square"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/geekmister/cs-translate"><b> &nbsp; :computer: cs-translate</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/cs-translate?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/cs-translate?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/cs-translate?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/cs-translate?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/cs-translate?style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
-  <br />
-</details>
 
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
-	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
-	</ul>
-</details>
+### :point_right: &nbsp;  我的近况 :clock1:
 
-#
+即将编写完成，敬请期待...
 
-<div align="center">
+# 使用资源 👍 👍 👍
 
-### Show some ❤️ by starring some of the repositories!
+编写个人介绍页时使用了下面这些资源，非常有用！所以，我必须在此表达下感谢！
 
-</div>
-
-# Reference 👍 👍 👍
-
-I write my profile with the following references. That's help me, very much! So, I need to express gratitude！
-
-- 💟 &nbsp; [Gits of Github Markdown](https://gist.github.com/rxaviers/7360908) &nbsp; It can bring your text to life and beautiful!
-- ⭐ &nbsp; [Vistor Badge](https://visitor-badge.glitch.me/) &nbsp; It counts traffic to your profile, issues, repositories.
-- 🎉 &nbsp; [profile-template](https://github.com/topics/profile-template) &nbsp; The thought that these template for profile to provided me. Thanks, very much! 
+- 💟 &nbsp; [Gits of Github Markdown](https://gist.github.com/rxaviers/7360908) &nbsp; 在介绍页中使用这些表情可以让你的内容更加有活力和漂亮！
+- ⭐ &nbsp; [Vistor Badge](https://visitor-badge.glitch.me/) &nbsp; 添加这个Script可以统计你的介绍页、问题、仓库的访问次数。
+- 🎉 &nbsp; [profile-template](https://github.com/topics/profile-template) &nbsp; 编写个人介绍页时我参考了这些模板，非常感谢这些贡献者！
+- :heavy_dollar_sign: &nbsp; [Buy me a coffee](https://www.buymeacoffee.com/) &nbsp; 一家国外的类似打赏的平台！
+- :innocent: &nbsp; [shields](https://shields.io/) &nbsp; 一些非常实用的小徽标，如果上面没有你可以自己制作！
