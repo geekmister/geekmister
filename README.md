@@ -1,6 +1,6 @@
 <img width="100%" src="https://raw.githubusercontent.com/geekmister/geekmister/master/images/cover-drawing.png"/>
 
-## Hey 👋, I'm [Geekmister!](https://github.com/geekmister/)
+# Hey 👋, I'm [Geekmister](https://github.com/geekmister/)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/geekmister)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://geekmisterblog.blogspot.com/)
@@ -8,11 +8,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/MrGeekmister/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
 
-I'm Geekmister, it's my nickname! 😊 Why am i called that? ❓ Because I adore the geek spirit, the power to change the world when you move your fingertips! 💭
+I'm Geekmister, it's my nickname 😊! Why am i called that? Because I adore the geek spirit, the power to change the world when you move your fingertips 🖐️! 
 
-I majored in computer technology at university and I like it very much. 😍 After graduation, I have been engaged in the computer technology industry for ten years, during which I trained myself as a full-stack development engineer. ✊
+I majored in computer technology at university and I like it very much 😍. After graduation, I have been engaged in the computer technology industry for ten years, during which I trained myself as a full-stack development engineer. ✊
 
 Since I registered my github account 10 years ago, I haven't used it very often. In the second decade of my career, I want to put my technology sharing on github! Welcome to follow me! 👍
 
@@ -152,3 +152,11 @@ Like My Work?
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+# Reference 👍 👍 👍
+
+I write my profile with the following references. That's help me, very much! So, I need to express gratitude！
+
+- 💟 &nbsp; [Gits of Github Markdown](https://gist.github.com/rxaviers/7360908) &nbsp; It can bring your text to life and beautiful!
+- ⭐ &nbsp; [Vistor Badge](https://visitor-badge.glitch.me/) &nbsp; It counts traffic to your profile, issues, repositories.
+- 🎉 &nbsp; [profile-template](https://github.com/topics/profile-template) &nbsp; The thought that these template for profile to provided me. Thanks, very much! 
