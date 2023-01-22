@@ -9,7 +9,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
 ![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
 
-### 很高兴在这里遇到你！&nbsp;🎉
+### :point_right: &nbsp;  很高兴在这里遇到你！&nbsp; 🎉
 
 我是极客先生，这个名字是昵称，因为我崇尚极客精神 😃 ~ 指尖舞动间有改变世界的力量！ 🖐️（哈哈，这只是一种精神力量，不喜勿喷） 🙏
 
@@ -23,7 +23,7 @@
 
 <a href="https://www.buymeacoffee.com/geekmister" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-### 开源项目 &nbsp; :open_hands:
+### :point_right: &nbsp; 开源项目 &nbsp; :open_hands:
 
 <table>
     <thead align="center">
@@ -120,7 +120,7 @@
     </tbody>
   </table>
 
-### 我的近况
+### :point_right: &nbsp;  我的近况 :clock1:
 
 即将编写完成，敬请期待...
 
@@ -132,4 +132,4 @@
 - ⭐ &nbsp; [Vistor Badge](https://visitor-badge.glitch.me/) &nbsp; 添加这个Script可以统计你的介绍页、问题、仓库的访问次数。
 - 🎉 &nbsp; [profile-template](https://github.com/topics/profile-template) &nbsp; 编写个人介绍页时我参考了这些模板，非常感谢这些贡献者！
 - :heavy_dollar_sign: &nbsp; [Buy me a coffee](https://www.buymeacoffee.com/) &nbsp; 一家国外的类似打赏的平台！
-- :innocent: [shields](https://shields.io/) $nbsp; 一些非常实用的小徽标，如果上面没有你可以自己制作！
+- :innocent: &nbsp; [shields](https://shields.io/) &nbsp; 一些非常实用的小徽标，如果上面没有你可以自己制作！
