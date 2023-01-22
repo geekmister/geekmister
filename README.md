@@ -9,21 +9,21 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
 ![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
 
-### :point_right: &nbsp;  很高兴在这里遇到你！&nbsp; 🎉
+### :point_right: &nbsp;  Glad to see you here！&nbsp; 🎉
 
-我是极客先生，这个名字是昵称，因为我崇尚极客精神 😃 ~ 指尖舞动间有改变世界的力量！ 🖐️（哈哈，这只是一种精神力量，不喜勿喷） 🙏
+I'm Mr. Geek. It's a nickname, because I'm a geek 😃 ~ You have the power to change the world with your fingertips! 🖐️ (Haha, it's just a mental power, don't spray it if you don't like it) 🙏
 
-在大学时期学习的计算机技术专业，我非常喜欢这门学科，可能是童年受到了黑客帝国这部电影的影响总觉得写程序是一件很酷的事情 🆒。从毕业后到现在已经从事程序员行业十年了， 👍 在这期间我努力把自己训练成全栈研发工程师，现在已经可以从产品设计 -> UI设计 -> 软件研发 -> 软件测试 -> 系统运维 -> 线上运营多个维度独立研发一款产品。工作之余也会研发一些小工具、写写技术博客以文会友、不断地学习新知识 ✊。
+I majored in computer technology in college, and I like this subject very much. Maybe because I was influenced by the movie The Matrix in my childhood, I always thought it was cool to write programs 🆒. I have been working as a programmer for ten years since graduation, 👍 During this period I worked hard to train myself as a whole stack R&D engineer, and now I can start from product design. UI Design -&gt; Software development -&gt; Software testing -&gt; System operation and maintenance -&gt; Online operation multiple dimensions independent research and development of a product. In my spare time, I also develop gadgets, write technical blogs to meet friends, and constantly learn new things ✊.
 
-**我非常认同一点：持续学习、深度学习是程序员必须养成的习惯！** 👏
+**I strongly agree with one point: continuous learning, deep learning is a programmer must develop the habit!** 👏
 
-自2018年注册了Github账号后不经常使用 😭，准备在自己职业生涯第二个十年开启之际想将自己10年来的积累分享到Github上，不只有开源代码也有所思所想 📣！欢迎大家关注我！ 😏
+I've been on Github infrequently since 2018 😭, As I embark on the second decade of my career, I want to share what I've learned over the past decade on Github, It's not just open source that has ideas 📣! Welcome to follow me! 😏
 
-接下来可以通过下面的内容更加详细地了解我，同时赏饭请点击下面按钮！ 😍 🍗
+Next, you can learn more about me through the following content. At the same time, please click the button below to enjoy the meal! 😍 🍗
 
 <a href="https://www.buymeacoffee.com/geekmister" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-### :point_right: &nbsp; 开源项目 &nbsp; :open_hands:
+### :point_right: &nbsp; Open source project &nbsp; :open_hands:
 
 <table>
     <thead align="center">
@@ -120,16 +120,16 @@
     </tbody>
   </table>
 
-### :point_right: &nbsp;  我的近况 :clock1:
+### :point_right: &nbsp;  My recent situation :clock1:
 
-即将编写完成，敬请期待...
+Writing will be completed soon, please look forward to...
 
-# 使用资源 👍 👍 👍
+# Use resources 👍 👍 👍
 
-编写个人介绍页时使用了下面这些资源，非常有用！所以，我必须在此表达下感谢！
+The following resources were used when writing a personal introduction page, which is very useful! So, I must express my thanks here!
 
-- 💟 &nbsp; [Gits of Github Markdown](https://gist.github.com/rxaviers/7360908) &nbsp; 在介绍页中使用这些表情可以让你的内容更加有活力和漂亮！
-- ⭐ &nbsp; [Vistor Badge](https://visitor-badge.glitch.me/) &nbsp; 添加这个Script可以统计你的介绍页、问题、仓库的访问次数。
-- 🎉 &nbsp; [profile-template](https://github.com/topics/profile-template) &nbsp; 编写个人介绍页时我参考了这些模板，非常感谢这些贡献者！
-- :heavy_dollar_sign: &nbsp; [Buy me a coffee](https://www.buymeacoffee.com/) &nbsp; 一家国外的类似打赏的平台！
-- :innocent: &nbsp; [shields](https://shields.io/) &nbsp; 一些非常实用的小徽标，如果上面没有你可以自己制作！
+- 💟 &nbsp; [Gits of Github Markdown](https://gist.github.com/rxaviers/7360908) &nbsp; Using these emojis in the introduction page can make your content more vibrant and beautiful!
+- ⭐ &nbsp; [Vistor Badge](https://visitor-badge.glitch.me/) &nbsp; Add this Script to count your intro pages, questions, and repository visits.
+- 🎉 &nbsp; [profile-template](https://github.com/topics/profile-template) &nbsp; I used these templates when writing my profile page. Thank you very much to all the contributors!
+- :heavy_dollar_sign: &nbsp; [Buy me a coffee](https://www.buymeacoffee.com/) &nbsp; A foreign similar reward platform!
+- :innocent: &nbsp; [shields](https://shields.io/) &nbsp; Some very useful little logos that you can make yourself if you don't have them!
