@@ -1,6 +1,6 @@
 <img width="100%" src="https://raw.githubusercontent.com/geekmister/geekmister/master/images/cover-drawing.png"/>
 
-# Hey 👋, I'm [Geekmister](https://github.com/geekmister/)!
+# 嗨，大家好！👋，我是&nbsp;[极客先生](https://github.com/geekmister/)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/geekmister)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://geekmisterblog.blogspot.com/)
