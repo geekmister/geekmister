@@ -9,7 +9,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
 ![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
 
-### :point_right: &nbsp;  很高兴在这里遇到你！&nbsp; 🎉
+### 🎉 &nbsp;  很高兴在这里遇到你!
 
 我是极客先生，这个名字是昵称，因为我崇尚极客精神 😃 ~ 指尖舞动间有改变世界的力量！ 🖐️（哈哈，这只是一种精神力量，不喜勿喷） 🙏
 
@@ -23,7 +23,7 @@
 
 <a href="https://www.buymeacoffee.com/geekmister" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-### :point_right: &nbsp; 开源项目 &nbsp; :open_hands:
+### :open_hands: &nbsp; 开源项目
 
 <table>
     <thead align="center">
@@ -120,7 +120,7 @@
     </tbody>
   </table>
 
-### :point_right: &nbsp;  我的近况 :clock1:
+### :clock1: &nbsp; 我的近况
 
 即将编写完成，敬请期待...
 
