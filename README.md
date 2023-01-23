@@ -9,7 +9,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
 ![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
 
-### :point_right: &nbsp;  Glad to see you here！&nbsp; 🎉
+### 🎉 &nbsp; Glad to see you here!
 
 I'm Mr. Geek. It's a nickname, because I'm a geek 😃 ~ You have the power to change the world with your fingertips! 🖐️ (Haha, it's just a mental power, don't spray it if you don't like it) 🙏
 
@@ -23,7 +23,7 @@ Next, you can learn more about me through the following content. At the same tim
 
 <a href="https://www.buymeacoffee.com/geekmister" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-### :point_right: &nbsp; Open source project &nbsp; :open_hands:
+### :open_hands: &nbsp; Open source project
 
 <table>
     <thead align="center">
@@ -120,7 +120,7 @@ Next, you can learn more about me through the following content. At the same tim
     </tbody>
   </table>
 
-### :point_right: &nbsp;  My recent situation :clock1:
+### :clock1: &nbsp;  My recent situation
 
 Writing will be completed soon, please look forward to...
 
