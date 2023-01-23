@@ -124,6 +124,10 @@ Next, you can learn more about me through the following content. At the same tim
 
 Writing will be completed soon, please look forward to...
 
+### :hammer_and_wrench: &nbsp; Technogoly Stack
+
+Writing will be completed sonn, please look forward to...
+
 # Use resources 👍 👍 👍
 
 The following resources were used when writing a personal introduction page, which is very useful! So, I must express my thanks here!
