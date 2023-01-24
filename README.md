@@ -9,14 +9,7 @@
     </thead>
 </table>
 
-## Hi, I'm &nbsp;[Geekmister](https://github.com/geekmister/)！&nbsp;👋 👋 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/geekmister)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://geekmisterblog.blogspot.com/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MrGeekmister/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/MrGeekmister/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
-![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
+## Hi, I'm &nbsp;[Geekmister](https://github.com/geekmister/)！&nbsp; 👋 👋 👋
 
 ### 🎉 &nbsp; Glad to see you here!
 
@@ -165,6 +158,28 @@ Next, you can learn more about me through the following content. At the same tim
         </tr>
     </thead>
 </table>
+
+### ⚙️ &nbsp; GitHub Analytics
+
+<p align="left">
+    <a href="https://github.com/geekmister">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=geekmister&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+</p>
+
+### Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3423A6?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/geekmister)
+[![Website Badge](https://img.shields.io/badge/Website-0077B5?style=flat-square&logo=google-chrome&logoColor=white)](https://geekmisterblog.blogspot.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-D14836?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MrGeekmister/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/MrGeekmister/)
+[![Gmail Badge](https://img.shields.io/badge/-geekmister.mg@gmail.com-1877F2?style=flat-square&logo=Gmail&logoColor=white)]
+
+<br/>
+<p align="right">
+    ![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
+</p>
 
 # Use resources 👍 👍 👍
 
