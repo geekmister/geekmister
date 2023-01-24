@@ -122,11 +122,28 @@
 
 ### :clock1: &nbsp; 我的近况
 
-即将编写完成，敬请期待...
+- 当前正在研发开源项目是appium-app-autotest-client :building_construction:
+- 近期正在学习Java集合相关知识 :green_book:
+- 日常的工作是必不可少的 :computer:
+- 最近在读的书是《码书》，这是一本讲述加密和解密战争的书，我非常感兴趣！ :books:
 
 ### :hammer_and_wrench: &nbsp; 技术栈
 
-即将编写完成，敬请期待...
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm-ide)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij-ide&logoColor=2C2255)
+![Sketch](https://img.shields.io/badge/-Sketch-05122A?style=flat&logo=sketch)&nbsp;
+![Vue 3](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
+![Tdesign](https://img.shields.io/badge/-tdesign-05122A?style=flat&logo=tdesign)&nbsp;
+![Springboot](https://img.shields.io/badge/-springboot-05122A?style=flat&logo=springboot)&nbsp;
 
 ### :earth_asia: &nbsp; 语言
 
