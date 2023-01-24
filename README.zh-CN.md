@@ -4,7 +4,7 @@
     <thead align="center">
         <tr>
             <td><a href="https://github.com/geekmister"> :england: 英文介绍页 </a></td>
-            <td><a href="https://github.com/geekmister/geekmister/blob/main/README-CN.md"> :cn: 中文介绍页 </a></td>
+            <td><a href="https://github.com/geekmister/geekmister/blob/main/README.zh-CN.md"> :cn: 中文介绍页 </a></td>
         </tr>
     </thead>
 </table>
