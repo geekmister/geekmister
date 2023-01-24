@@ -1,5 +1,14 @@
 <img width="100%" src="https://raw.githubusercontent.com/geekmister/geekmister/master/images/cover-drawing-cn.png"/>
 
+<table>
+    <thead align="center">
+        <tr>
+            <td><a href="https://github.com/geekmister"> :england: 英文介绍页 </a></td>
+            <td><a href="https://github.com/geekmister/geekmister/blob/main/README-CN.md"> :cn: 中文介绍页 </a></td>
+        </tr>
+    </thead>
+</table>
+
 ## 嗨，大家好！我是&nbsp;[极客先生](https://github.com/geekmister/)！&nbsp;👋 👋 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/geekmister)
