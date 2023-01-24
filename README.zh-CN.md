@@ -11,13 +11,6 @@
 
 ## 嗨，大家好！我是&nbsp;[极客先生](https://github.com/geekmister/)！&nbsp;👋 👋 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/geekmister)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://geekmisterblog.blogspot.com/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MrGeekmister/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/MrGeekmister/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
-![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
-
 ### 🎉 &nbsp;  很高兴在这里遇到你!
 
 我是极客先生，这个名字是昵称，因为我崇尚极客精神 😃 ~ 指尖舞动间有改变世界的力量！ 🖐️（哈哈，这只是一种精神力量，不喜勿喷） 🙏
@@ -31,6 +24,15 @@
 接下来可以通过下面的内容更加详细地了解我，同时赏饭请点击下面按钮！ 😍 🍗
 
 <a href="https://www.buymeacoffee.com/geekmister" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/geekmister/geekmister/master/gifs/night-coding.gif" align="right"/> 
+
+### :clock1: &nbsp; 我的近况
+
+- 当前正在研发开源项目是appium-app-autotest-client :building_construction:
+- 近期正在学习Java集合相关知识 :green_book:
+- 日常的工作是必不可少的 :computer:
+- 最近在读的书是《码书》，这是一本讲述加密和解密战争的书，我非常感兴趣！ :books:
 
 ### :open_hands: &nbsp; 开源项目
 
@@ -127,14 +129,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/cs-translate?style=flat-square"/></td>
       </tr>
     </tbody>
-  </table>
-
-### :clock1: &nbsp; 我的近况
-
-- 当前正在研发开源项目是appium-app-autotest-client :building_construction:
-- 近期正在学习Java集合相关知识 :green_book:
-- 日常的工作是必不可少的 :computer:
-- 最近在读的书是《码书》，这是一本讲述加密和解密战争的书，我非常感兴趣！ :books:
+</table>
 
 ### :hammer_and_wrench: &nbsp; 技术栈
 
@@ -165,6 +160,24 @@
         </tr>
     </thead>
 </table>
+
+### ⚙️ &nbsp; GitHub分析
+
+<p align="left">
+    <a href="https://github.com/geekmister">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=geekmister&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+</p>
+
+### :handshake: &nbsp; 联系我
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3423A6?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/geekmister)
+[![Website Badge](https://img.shields.io/badge/Website-0077B5?style=flat-square&logo=google-chrome&logoColor=white)](https://geekmisterblog.blogspot.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-D14836?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MrGeekmister/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/MrGeekmister/)
+[![Gmail Badge](https://img.shields.io/badge/-geekmister.mg@gmail.com-1877F2?style=flat-square&logo=Gmail&logoColor=white)]()
+![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
 
 # 使用资源 👍 👍 👍
 
