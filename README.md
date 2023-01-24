@@ -25,6 +25,15 @@ Next, you can learn more about me through the following content. At the same tim
 
 <a href="https://www.buymeacoffee.com/geekmister" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/geekmister/geekmister/master/gifs/night-coding.gif" align="right"/>
+
+### :clock1: &nbsp;  My recent situation
+
+- The open source project currently under development is appium-app-autotest-client :building_construction:
+- Recently, I am learning about Java collections :green_book:
+- Routine work is essential :computer:
+- The book I read recently is the Code Book, which is a book about encryption and decryption war, I am very interested! :books:
+
 ### :open_hands: &nbsp; Open source project
 
 <table>
@@ -121,15 +130,6 @@ Next, you can learn more about me through the following content. At the same tim
       </tr>
     </tbody>
  </table>
-  
-<img alt="Night Coding" src="https://raw.githubusercontent.com/geekmister/geekmister/master/gifs/night-coding.gif" align="right"/>
-
-### :clock1: &nbsp;  My recent situation
-
-- The open source project currently under development is appium-app-autotest-client :building_construction:
-- Recently, I am learning about Java collections :green_book:
-- Routine work is essential :computer:
-- The book I read recently is the Code Book, which is a book about encryption and decryption war, I am very interested! :books:
 
 ### :hammer_and_wrench: &nbsp; Technogoly Stack
 
