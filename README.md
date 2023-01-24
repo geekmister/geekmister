@@ -1,5 +1,14 @@
 <img width="100%" src="https://raw.githubusercontent.com/geekmister/geekmister/master/images/cover-drawing-en.png"/>
 
+<table>
+    <thead align="center">
+        <tr>
+            <td><a href="https://github.com/geekmister"> :england: Profile of english </a></td>
+            <td><a href="https://github.com/geekmister/geekmister/blob/main/README.zh-CN.md"> :cn: Profile of chinese </a></td>
+        </tr>
+    </thead>
+</table>
+
 ## Hi, I'm &nbsp;[Geekmister](https://github.com/geekmister/)！&nbsp;👋 👋 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/geekmister)
@@ -122,20 +131,37 @@ Next, you can learn more about me through the following content. At the same tim
 
 ### :clock1: &nbsp;  My recent situation
 
-Writing will be completed soon, please look forward to...
+- 当前正在研发开源项目是appium-app-autotest-client :building_construction:
+- 近期正在学习Java集合相关知识 :green_book:
+- 日常的工作是必不可少的 :computer:
+- 最近在读的书是《码书》，这是一本讲述加密和解密战争的书，我非常感兴趣！ :books:
 
 ### :hammer_and_wrench: &nbsp; Technogoly Stack
 
-Writing will be completed sonn, please look forward to...
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm-ide)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellij-ide&logoColor=2C2255)
+![Sketch](https://img.shields.io/badge/-Sketch-05122A?style=flat&logo=sketch)&nbsp;
+![Vue 3](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
+![Tdesign](https://img.shields.io/badge/-tdesign-05122A?style=flat&logo=tdesign)&nbsp;
+![Springboot](https://img.shields.io/badge/-springboot-05122A?style=flat&logo=springboot)&nbsp;
 
 ### :earth_asia: &nbsp; Languages
 
 <table>
     <thead align="left">
         <tr>
-            <td> :cn: Simplified Chinese ★★★ </td>
-            <td> :england: English ★★☆ </td>
-            <td> :jp: Japanese ★☆☆ </td>
+            <td> :cn: 简体中文 ★★★ </td>
+            <td> :england: 英语 ★★☆ </td>
+            <td> :jp: 日语 ★☆☆ </td>
         </tr>
     </thead>
 </table>
