@@ -120,14 +120,16 @@ Next, you can learn more about me through the following content. At the same tim
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/cs-translate?style=flat-square"/></td>
       </tr>
     </tbody>
-  </table>
+ </table>
+  
+<img alt="Night Coding" src="https://raw.githubusercontent.com/geekmister/geekmister/master/gifs/night-coding.gif" align="right"/>
 
 ### :clock1: &nbsp;  My recent situation
 
-- 当前正在研发开源项目是appium-app-autotest-client :building_construction:
-- 近期正在学习Java集合相关知识 :green_book:
-- 日常的工作是必不可少的 :computer:
-- 最近在读的书是《码书》，这是一本讲述加密和解密战争的书，我非常感兴趣！ :books:
+- The open source project currently under development is appium-app-autotest-client :building_construction:
+- Recently, I am learning about Java collections :green_book:
+- Routine work is essential :computer:
+- The book I read recently is the Code Book, which is a book about encryption and decryption war, I am very interested! :books:
 
 ### :hammer_and_wrench: &nbsp; Technogoly Stack
 
@@ -152,9 +154,9 @@ Next, you can learn more about me through the following content. At the same tim
 <table>
     <thead align="left">
         <tr>
-            <td> :cn: 简体中文 ★★★ </td>
-            <td> :england: 英语 ★★☆ </td>
-            <td> :jp: 日语 ★☆☆ </td>
+            <td> :cn: Simplified Chinese ★★★ </td>
+            <td> :england: English ★★☆ </td>
+            <td> :jp: Japanese ★☆☆ </td>
         </tr>
     </thead>
 </table>
@@ -168,18 +170,14 @@ Next, you can learn more about me through the following content. At the same tim
     </a>
 </p>
 
-### Connect with me
+### :handshake: &nbsp; Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3423A6?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/geekmister)
 [![Website Badge](https://img.shields.io/badge/Website-0077B5?style=flat-square&logo=google-chrome&logoColor=white)](https://geekmisterblog.blogspot.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-D14836?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MrGeekmister/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/MrGeekmister/)
-[![Gmail Badge](https://img.shields.io/badge/-geekmister.mg@gmail.com-1877F2?style=flat-square&logo=Gmail&logoColor=white)]
-
-<br/>
-<p align="right">
-    ![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
-</p>
+[![Gmail Badge](https://img.shields.io/badge/-geekmister.mg@gmail.com-1877F2?style=flat-square&logo=Gmail&logoColor=white)]()
+![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
 
 # Use resources 👍 👍 👍
 
