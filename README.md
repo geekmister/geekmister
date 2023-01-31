@@ -89,7 +89,7 @@ Next, you can learn more about me through the following content. At the same tim
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/appium-app-autotest?style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/devices-mirror-mh"><b> :mirror: appium-app-autotest</b></a></td>
+      	<td><a href="https://github.com/geekmister/devices-mirror-mh"><b> :mirror: devices-mirror-mh</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/devices-mirror-mh?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/devices-mirror-mh?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/devices-mirror-mh?style=flat-square"/></td>
