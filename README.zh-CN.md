@@ -124,6 +124,50 @@
         </table>
 </details>
 
+#### Appium版移动端UI自动化测试框架
+
+<details>
+    <summary>采用Vue 3 + Springboot框架，基于Tdesign components组件研发的后端渲染开箱及用的个人博客系统！</summary>
+    <table>
+        <thead>
+          <tr border: none;>
+            <td><b> 💻 Projects</b></td>
+            <td><b> 🌟 Stars</b></td>
+            <td><b> 🍴 Forks</b></td>
+            <td><b> 🐛 Issues</b></td>
+            <td><b> 🔔 Pull Requests</b></td>
+            <td><b> 👨‍💻 Language</b></td>
+          </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://github.com/geekmister/appium-app-autotest-client"><b> :spider_web: appium-app-autotest-client</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/appium-app-autotest-client?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/appium-app-autotest-client?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/appium-app-autotest-client?style=flat-square"/></td>
+                <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/appium-app-autotest-client?style=flat-square"/></td>
+                <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/appium-app-autotest-client?style=flat-square"/></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/geekmister/appium-app-autotest-report"><b> :spider_web: appium-app-autotest-report</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/appium-app-autotest-report?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/appium-app-autotest-report?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/appium-app-autotest-report?style=flat-square"/></td>
+                <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/appium-app-autotest-report?style=flat-square"/></td>
+                <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/appium-app-autotest-report?style=flat-square"/></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/geekmister/appium-app-autotest-service"><b> :spider_web: appium-app-autotest-service</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/appium-app-autotest-service?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/appium-app-autotest-service?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/appium-app-autotest-service?style=flat-square"/></td>
+                <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/appium-app-autotest-service?style=flat-square"/></td>
+                <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/appium-app-autotest-service?style=flat-square"/></td>
+            </tr>
+        </tbody>
+    </table>
+</details>
+
 <table>
     <thead>
       <tr border: none;>
@@ -136,14 +180,6 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
-      	<td><a href="https://github.com/geekmister/uiautotest"><b> :hammer_and_pick: uiautotest</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/uiautotest?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/uiautotest?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/uiautotest?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/uiautotest?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/uiautotest?label=javascript&style=flat-square"/></td>
-      </tr>
       <tr>
       	<td><a href="https://github.com/geekmister/cst-study-guide"><b> :books: cs-study-guide</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/cst-study-guide?style=flat-square&labelColor=343b41"/></td>
