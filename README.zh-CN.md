@@ -36,6 +36,100 @@
 
 ### :open_hands: &nbsp; 开源项目
 
+### 极客
+### :open_hands: &nbsp; 开源项目x先生
+### :open_hands: &nbsp; 开源项目
+
+<div align="center">
+    <h3>极客先生个人博客系统</h3>
+    <div align="center">
+        <h5>采用Vue 3 + Springboot框架，基于Tdesign components组件研发的后端渲染开箱及用的个人博客系统！</h5>
+        <table>
+            <thead>
+              <tr border: none;>
+                <td><b> 💻 Projects</b></td>
+                <td><b> 🌟 Stars</b></td>
+                <td><b> 🍴 Forks</b></td>
+                <td><b> 🐛 Issues</b></td>
+                <td><b> 🔔 Pull Requests</b></td>
+                <td><b> 👨‍💻 Language</b></td>
+              </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="https://github.com/geekmister/gm-blog-admin"><b> :spider_web: gm-blog-admin</b></a></td>
+                    <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-blog-admin?style=flat-square&labelColor=343b41"/></td>
+                    <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-blog-admin?style=flat-square&labelColor=343b41"/></td>
+                    <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-blog-admin?style=flat-square"/></td>
+                    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-blog-admin?style=flat-square"/></td>
+                    <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-blog-admin?style=flat-square"/></td>
+                </tr>
+                <tr>
+                    <td><a href="https://github.com/geekmister/gm-blog-website"><b> :spider_web: gm-blog-website</b></a></td>
+                    <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-blog-website?style=flat-square&labelColor=343b41"/></td>
+                    <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-blog-website?style=flat-square&labelColor=343b41"/></td>
+                    <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-blog-website?style=flat-square"/></td>
+                    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-blog-website?style=flat-square"/></td>
+                    <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-blog-website?style=flat-square"/></td>
+                </tr>
+                <tr>
+                    <td><a href="https://github.com/geekmister/gm-blog-service"><b> :spider_web: gm-blog-service</b></a></td>
+                    <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-blog-service?style=flat-square&labelColor=343b41"/></td>
+                    <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-blog-service?style=flat-square&labelColor=343b41"/></td>
+                    <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-blog-service?style=flat-square"/></td>
+                    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-blog-service?style=flat-square"/></td>
+                    <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-blog-service?style=flat-square"/></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div align="center">
+    <h3>开箱及用的移动端UI自动化测试解决方案</h3>
+    <div align="center">
+        <h5>跨平台桌面端，支持iOS和Android端App测试，在线编写测试用！</h5>
+        <table>
+            <thead>
+              <tr border: none;>
+                <td><b> 💻 Projects</b></td>
+                <td><b> 🌟 Stars</b></td>
+                <td><b> 🍴 Forks</b></td>
+                <td><b> 🐛 Issues</b></td>
+                <td><b> 🔔 Pull Requests</b></td>
+                <td><b> 👨‍💻 Language</b></td>
+              </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="https://github.com/geekmister/uiautotest-desktop"><b> :spider_web: uiautotest-client</b></a></td>
+                    <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/uiautotest-desktop?style=flat-square&labelColor=343b41"/></td>
+                    <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/uiautotest-desktop?style=flat-square&labelColor=343b41"/></td>
+                    <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/uiautotest-desktop?style=flat-square"/></td>
+                    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/uiautotest-desktop?style=flat-square"/></td>
+                    <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/uiautotest-desktop?style=flat-square"/></td>
+                </tr>
+                <tr>
+                    <td><a href="https://github.com/geekmister/uiautotest-admin"><b> :spider_web: uiautotest-admin</b></a></td>
+                    <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/uiautotest-admin?style=flat-square&labelColor=343b41"/></td>
+                    <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/uiautotest-admin?style=flat-square&labelColor=343b41"/></td>
+                    <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/uiautotest-admin?style=flat-square"/></td>
+                    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/uiautotest-admin?style=flat-square"/></td>
+                    <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/uiautotest-admin?style=flat-square"/></td>
+                </tr>
+                <tr>
+                    <td><a href="https://github.com/geekmister/uiautotest-service"><b> :spider_web: uiautotest-service</b></a></td>
+                    <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/uiautotest-service?style=flat-square&labelColor=343b41"/></td>
+                    <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/uiautotest-service?style=flat-square&labelColor=343b41"/></td>
+                    <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/uiautotest-service?style=flat-square"/></td>
+                    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/uiautotest-service?style=flat-square"/></td>
+                    <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/uiautotest-service?style=flat-square"/></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
 <table>
     <thead>
       <tr border: none;>
@@ -48,14 +142,6 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
-      	<td><a href="https://github.com/geekmister/gm-blog"><b> :spider_web: gm-blog</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-blog?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-blog?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-blog?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-blog?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-blog?style=flat-square"/></td>
-      </tr>
       <tr>
       	<td><a href="https://github.com/geekmister/uiautotest"><b> :hammer_and_pick: uiautotest</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/uiautotest?style=flat-square&labelColor=343b41"/></td>
