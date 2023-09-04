@@ -57,44 +57,12 @@ Next, you can learn more about me through the following content. At the same tim
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-blog?style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/uiautotest"><b> :hammer_and_pick: uiautotest</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/uiautotest?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/uiautotest?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/uiautotest?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/uiautotest?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/uiautotest?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/geekmister/cst-study-guide"><b> :books: cs-study-guide</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/cst-study-guide?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/cst-study-guide?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/cst-study-guide?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/cst-study-guide?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/cst-study-guide?style=flat-square"/></td>
-      </tr>
-      <tr>
       	<td><a href="https://github.com/geekmister/geekmister"><b> 🤓 geekmister</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/geekmister?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/geekmister?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/geekmister?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/geekmister?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/geekmister?style=flat-square"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/geekmister/appium-app-autotest"><b> :hammer_and_wrench: appium-app-autotest</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/appium-app-autotest?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/appium-app-autotest?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/appium-app-autotest?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/appium-app-autotest?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/appium-app-autotest?style=flat-square"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/geekmister/devices-mirror-mh"><b> :mirror: devices-mirror-mh</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/devices-mirror-mh?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/devices-mirror-mh?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/devices-mirror-mh?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/devices-mirror-mh?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/devices-mirror-mh?style=flat-square"/></td>
       </tr>
     </tbody>
  </table>
