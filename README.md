@@ -21,7 +21,10 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 
 ### :clock1: &nbsp;  My recent situation
 
-- Wait a moment... ⏰
+- I work in a commany as a software test manager.
+- Recently in the open source [gm-graph](https://github.com/geekmister/gm-graph) project, from which I can learn mathematics.
+- Reading an book about cryptography.
+- Most importantly, I'm fighting my depression.
 
 ### :open_hands: &nbsp; Open source project
 
@@ -52,6 +55,30 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/geekmister?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/geekmister?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/geekmister?style=flat-square"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/geekmister/gm-languages-translate"><b> 🗣️ gm-languages-translate</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-languages-translate?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-languages-translate?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-languages-translate?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-languages-translate?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-languages-translate?style=flat-square"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/geekmister/gm-graph"><b> 🎨 gm-graph</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-graph?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-graph?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-graph?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-graph?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-graph?style=flat-square"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/geekmister/WebDriverAgent"><b> 📱 WebDriverAgent</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/WebDriverAgent?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/WebDriverAgent?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/WebDriverAgent?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/WebDriverAgent?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/WebDriverAgent?style=flat-square"/></td>
       </tr>
     </tbody>
  </table>
