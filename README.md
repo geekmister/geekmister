@@ -13,7 +13,7 @@
 
 ### 🎉 &nbsp; Glad to see you here!
 
-**Introduction for me is building...** 🏗️
+Hi, I am Geekmister! I like github.com, because of share your results here and meet more people, that's a amusing paltform. 🤟 Then would to leran more knowledge 🤩, that's importanted! Glad to see you here, hope my share would help you... 😄
 
 <a href="https://www.buymeacoffee.com/geekmister" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
