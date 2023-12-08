@@ -13,15 +13,7 @@
 
 ### 🎉 &nbsp; Glad to see you here!
 
-I'm Mr. Geek. It's a nickname, because I'm a geek 😃 ~ You have the power to change the world with your fingertips! 🖐️ (Haha, it's just a mental power, don't spray it if you don't like it) 🙏
-
-I majored in computer technology in college, and I like this subject very much. Maybe because I was influenced by the movie The Matrix in my childhood, I always thought it was cool to write programs 🆒. I have been working as a programmer for ten years since graduation, 👍 During this period I worked hard to train myself as a whole stack R&D engineer, and now I can start from product design. UI Design -&gt; Software development -&gt; Software testing -&gt; System operation and maintenance -&gt; Online operation multiple dimensions independent research and development of a product. In my spare time, I also develop gadgets, write technical blogs to meet friends, and constantly learn new things ✊.
-
-**I strongly agree with one point: continuous learning, deep learning is a programmer must develop the habit!** 👏
-
-I've been on Github infrequently since 2018 😭, As I embark on the second decade of my career, I want to share what I've learned over the past decade on Github, It's not just open source that has ideas 📣! Welcome to follow me! 😏
-
-Next, you can learn more about me through the following content. At the same time, please click the button below to enjoy the meal! 😍 🍗
+**Introduction for me is building...** 🏗️
 
 <a href="https://www.buymeacoffee.com/geekmister" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
@@ -29,10 +21,7 @@ Next, you can learn more about me through the following content. At the same tim
 
 ### :clock1: &nbsp;  My recent situation
 
-- The open source project currently under development is appium-app-autotest-client :building_construction:
-- Recently, I am learning about Java collections :green_book:
-- Routine work is essential :computer:
-- The book I read recently is the Code Book, which is a book about encryption and decryption war, I am very interested! :books:
+- Wait a moment... ⏰
 
 ### :open_hands: &nbsp; Open source project
 
