@@ -23,6 +23,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 
 - I work in a commany as a software test manager.
 - Recently in the open source [gm-graph](https://github.com/geekmister/gm-graph) project, from which I can learn mathematics.
+- Recently in the open source [gm-blog](https://github.com/geekmister/gm-blog) project.
 - Reading an book about cryptography.
 - Most importantly, I'm fighting my depression.
 
