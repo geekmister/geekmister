@@ -21,11 +21,14 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 
 ### :clock1: &nbsp;  My recent situation
 
-- I work in a commany as a software test manager.
-- Recently in the open source [gm-graph](https://github.com/geekmister/gm-graph) project, from which I can learn mathematics.
-- Recently in the open source [gm-blog](https://github.com/geekmister/gm-blog) project.
-- Reading an book about cryptography.
-- Most importantly, I'm fighting my depression.
+- I working in a commany as a software test manager, but I am also an full stack engineer. :man_technologist:
+- Personal IP is currently being built, contains projects:
+    - [gm-middle-tools-graph](https://github.com/geekmister/gm-graph) :art: what use draw all kinds of imgaing by h5 canvas and from which I can learn mathematics.
+    - [gm-frontend-web-blog](https://github.com/geekmister/gm-blog) :man: what is my persoanl blog and I ready make it would be calculability document.
+    - [gm-middle-tools-python-samples](https://github.com/geekmister/gm-middle-tools-python-samples) :snake: what I write some python code samples to write python code easly.
+    - [gm-middle-tools-spider](https://github.com/geekmister/gm-middle-tools-spider) 🕷️ what help me crawing all kinds of information i need and ready for [gm-frontend-web-blog](https://github.com/geekmister/gm-blog)
+- Recently, reading books about **Social Engineerig: Human holes in security system** and **Scrapy network spider tutorials**.
+- Most importantly, I'm fighting my depression. At least, I can control interval one day drink beer, when no drink beer eat medicine.
 
 ### :open_hands: &nbsp; Open source project
 
@@ -42,7 +45,23 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
     </thead>
     <tbody>
       <tr>
-      	<td><a href="https://github.com/geekmister/gm-blog"><b> :spider_web: gm-blog</b></a></td>
+      	<td><a href="https://github.com/geekmister/gm-blog"><b> 🕷️ gm-middle-tools-spider</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-middle-tools-spider?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-middle-tools-spider?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-middle-tools-spider?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-middle-tools-spider?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-middle-tools-spider?style=flat-square"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/geekmister/gm-blog"><b> 🐍 gm-middle-tools-python-samples</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-middle-tools-python-samples?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-middle-tools-python-samples?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-middle-tools-python-samples?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-middle-tools-python-samples?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-middle-tools-python-samples?style=flat-square"/></td>
+      </tr>
+      <tr>
+      	<td><a href="https://github.com/geekmister/gm-blog"><b> :man: gm-middle-web-blog</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-blog?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-blog?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-blog?style=flat-square"/></td>
@@ -66,7 +85,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-languages-translate?style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/gm-graph"><b> 🎨 gm-graph</b></a></td>
+      	<td><a href="https://github.com/geekmister/gm-graph"><b> 🎨 gm-middle-tools-graph</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-graph?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-graph?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-graph?style=flat-square"/></td>
