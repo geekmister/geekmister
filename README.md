@@ -15,9 +15,10 @@
 
 Hi, I am Geekmister! I like github.com, because of share your results here and meet more people, that's a amusing paltform. 🤟 Then would to leran more knowledge 🤩, that's importanted! Glad to see you here, hope my share would help you... 😄
 
+<div align="center">
+    <img alt="Night Coding" src="https://raw.githubusercontent.com/geekmister/geekmister/master/gifs/night-coding.gif"/>
+</div>
 <a href="https://www.buymeacoffee.com/geekmister" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/geekmister/geekmister/master/gifs/night-coding.gif" align="right"/>
 
 ### :clock1: &nbsp;  My recent situation
 
