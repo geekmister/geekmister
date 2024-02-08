@@ -4,7 +4,7 @@
     <thead align="center">
         <tr>
             <td><a href="https://github.com/geekmister"> :england: Profile of english </a></td>
-            <td><a href="https://github.com/geekmister/geekmister/blob/main/README.zh-CN.md"> :cn: Profile of chinese </a></td>
+            <td><a href="https://github.com/geekmister/geekmister/blob/main/README.zh-CN.md"> :cn: 中文介绍 </a></td>
         </tr>
     </thead>
 </table>
