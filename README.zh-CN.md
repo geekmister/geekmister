@@ -20,28 +20,28 @@
 </div>
 <a href="https://www.buymeacoffee.com/geekmister" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-### :clock1: &nbsp;  我最近的情况
+### :clock1: &nbsp;  我的近况
 
-- I working in a commany as a software test manager, but I am also an full stack engineer. :man_technologist:
-- Personal IP is currently being built, contains projects:
-    - [gm-middle-tools-graph](https://github.com/geekmister/gm-graph) :art: what use draw all kinds of imgaing by h5 canvas and from which I can learn mathematics.
-    - [gm-frontend-web-blog](https://github.com/geekmister/gm-blog) :man: what is my persoanl blog and I ready make it would be calculability document.
-    - [gm-middle-tools-python-samples](https://github.com/geekmister/gm-middle-tools-python-samples) :snake: what I write some python code samples to write python code easly.
-    - [gm-middle-tools-spider](https://github.com/geekmister/gm-middle-tools-spider) 🕷️ what help me crawing all kinds of information i need and ready for [gm-frontend-web-blog](https://github.com/geekmister/gm-blog)
-- Recently, reading books about **Social Engineerig: Human holes in security system** and **Scrapy network spider tutorials**.
-- Most importantly, I'm fighting my depression. At least, I can control interval one day drink beer, when no drink beer eat medicine.
+- 我在一家公司任职测试经理，同时我也是一位全栈研发工程师。 :man_technologist:
+- 个人IP正在建设中，包含下面这些项目：
+    - [gm-middle-tools-graph](https://github.com/geekmister/gm-graph) :art: 这是使用`H5 canvas`绘画各种图形的项目，从中我可以学习到数学知识。
+    - [gm-frontend-web-blog](https://github.com/geekmister/gm-blog) :man: 这是我的个人博客系统，我准备将其开发成可计算文档的项目。
+    - [gm-middle-tools-python-samples](https://github.com/geekmister/gm-middle-tools-python-samples) :snake: 这是我写的一些`Python`代码样例为了平时可以快速写代码的项目。
+    - [gm-middle-tools-spider](https://github.com/geekmister/gm-middle-tools-spider) 🕷️ 这是帮助我收集各种各样的信息为了 [gm-frontend-web-blog](https://github.com/geekmister/gm-blog)这个项目。
+- 最近，正在读**社会工程：人们希望的安全系统**和**Scrapy网络爬虫指南**。
+- 最重要的，我正在对抗抑郁症。首先，我需要控制饮酒。
 
-### :open_hands: &nbsp; Open source project
+### :open_hands: &nbsp;开源项目
 
 <table>
     <thead>
       <tr border: none;>
-        <td><b> 💻 Projects</b></td>
-        <td><b> 🌟 Stars</b></td>
-        <td><b> 🍴 Forks</b></td>
-        <td><b> 🐛 Issues</b></td>
-        <td><b> 🔔 Pull Requests</b></td>
-        <td><b> 👨‍💻 Language</b></td>
+        <td><b> 💻 项目</b></td>
+        <td><b> 🌟 星星</b></td>
+        <td><b> 🍴 分叉</b></td>
+        <td><b> 🐛 问题</b></td>
+        <td><b> 🔔 拉取请求</b></td>
+        <td><b> 👨‍💻 语言</b></td>
       </tr>
     </thead>
     <tbody>
@@ -104,7 +104,7 @@
     </tbody>
  </table>
 
-### :hammer_and_wrench: &nbsp; Technogoly Stack
+### :hammer_and_wrench: &nbsp; 技术栈
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -122,19 +122,19 @@
 ![Tdesign](https://img.shields.io/badge/-tdesign-05122A?style=flat&logo=tdesign)&nbsp;
 ![Springboot](https://img.shields.io/badge/-springboot-05122A?style=flat&logo=springboot)&nbsp;
 
-### :earth_asia: &nbsp; Languages
+### :earth_asia: &nbsp; 语言
 
 <table>
     <thead align="left">
         <tr>
-            <td> :cn: Simplified Chinese ★★★ </td>
-            <td> :england: English ★★☆ </td>
-            <td> :jp: Japanese ★☆☆ </td>
+            <td> :cn: 中文简体 ★★★ </td>
+            <td> :england: 英语 ★★☆ </td>
+            <td> :jp: 日语 ★☆☆ </td>
         </tr>
     </thead>
 </table>
 
-### ⚙️ &nbsp; GitHub Analytics
+### ⚙️ &nbsp; GitHub分析
 
 <p align="left">
     <a href="https://github.com/geekmister">
@@ -143,7 +143,7 @@
     </a>
 </p>
 
-### :handshake: &nbsp; Connect with me
+### :handshake: &nbsp; 联系我
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3423A6?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/geekmister)
 [![Website Badge](https://img.shields.io/badge/Website-0077B5?style=flat-square&logo=google-chrome&logoColor=white)](https://geekmisterblog.blogspot.com/)
@@ -152,12 +152,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-geekmister.mg@gmail.com-1877F2?style=flat-square&logo=Gmail&logoColor=white)]()
 ![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
 
-# Use resources 👍 👍 👍
+# 使用资源 👍 👍 👍
 
-The following resources were used when writing a personal introduction page, which is very useful! So, I must express my thanks here!
+在我写个人介绍页时使用到的资源，它们非常有用！所以，我在这里表达感谢！
 
-- 💟 &nbsp; [Gits of Github Markdown](https://gist.github.com/rxaviers/7360908) &nbsp; Using these emojis in the introduction page can make your content more vibrant and beautiful!
-- ⭐ &nbsp; [Vistor Badge](https://visitor-badge.glitch.me/) &nbsp; Add this Script to count your intro pages, questions, and repository visits.
-- 🎉 &nbsp; [profile-template](https://github.com/topics/profile-template) &nbsp; I used these templates when writing my profile page. Thank you very much to all the contributors!
-- :heavy_dollar_sign: &nbsp; [Buy me a coffee](https://www.buymeacoffee.com/) &nbsp; A foreign similar reward platform!
-- :innocent: &nbsp; [shields](https://shields.io/) &nbsp; Some very useful little logos that you can make yourself if you don't have them!
+- 💟 &nbsp; [Gits of Github Markdown](https://gist.github.com/rxaviers/7360908) &nbsp; 在个人介绍页中使用这些表情可以让内容更加生动和美观！
+- ⭐ &nbsp; [Vistor Badge](https://visitor-badge.glitch.me/) &nbsp; 添加这个脚本可以统计访问介绍页、问题、仓库的数量。
+- 🎉 &nbsp; [profile-template](https://github.com/topics/profile-template) &nbsp; 当我写我的介绍页时使用了这些模板。非常感谢贡献者们！
+- :heavy_dollar_sign: &nbsp; [Buy me a coffee](https://www.buymeacoffee.com/) &nbsp; 一个国外类似奖励的平台！
+- :innocent: &nbsp; [shields](https://shields.io/) &nbsp; 一些非常实用的小logo，如果没有时你可以自己制作！
