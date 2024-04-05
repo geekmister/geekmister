@@ -152,6 +152,26 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 [![Gmail Badge](https://img.shields.io/badge/-geekmister.mg@gmail.com-1877F2?style=flat-square&logo=Gmail&logoColor=white)]()
 ![](https://visitor-badge.glitch.me/badge?page_id=geekmister.geekmister&style=flat-square&color=0088cc)
 
+### My inspiration
+
+<details>
+<summary>Make tools about PDF file</summary>
+
+- pdf to word
+- drawing pdf
+- pdf to image(jpg, png...)
+- ...
+
+Can i reference `PDFescape` `PDF-XChange Editor` `Sejda PDF Editor` `LibreOffice Draw` `Smallpdf` `Zamzar` `Convertio` `PDF2JPG.net`. Of course i can find other website about operate pdf file.
+
+Currtently, now AI tools are populer, software that the type is tools will be integrate to AI. But i must have an self AI.
+</details>
+
+<details>
+<summary>Make an roadmap website</summary> 
+I think copy [roadmap.sh](roadmap.sh) websiter to chinal!
+</details>
+
 # Use resources 👍 👍 👍
 
 The following resources were used when writing a personal introduction page, which is very useful! So, I must express my thanks here!
