@@ -1,14 +1,5 @@
 <img width="100%" src="https://raw.githubusercontent.com/geekmister/geekmister/master/images/cover-drawing-en.png"/>
 
-<table>
-    <thead align="center">
-        <tr>
-            <td><a href="https://github.com/geekmister"> :england: Profile of english </a></td>
-            <td><a href="https://github.com/geekmister/geekmister/blob/main/README.zh-CN.md"> :cn: 中文介绍 </a></td>
-        </tr>
-    </thead>
-</table>
-
 ## Hi, I'm &nbsp;[Geekmister](https://github.com/geekmister/)！&nbsp; 👋 👋 👋
 
 ### 🎉 &nbsp; Glad to see you here!
@@ -154,23 +145,10 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 
 ### My inspiration
 
-<details>
-<summary>Make tools about PDF file</summary>
-
-- pdf to word
-- drawing pdf
-- pdf to image(jpg, png...)
-- ...
-
-Can i reference `PDFescape` `PDF-XChange Editor` `Sejda PDF Editor` `LibreOffice Draw` `Smallpdf` `Zamzar` `Convertio` `PDF2JPG.net`. Of course i can find other website about operate pdf file.
-
-Currtently, now AI tools are populer, software that the type is tools will be integrate to AI. But i must have an self AI.
-</details>
-
-<details>
-<summary>Make an roadmap website</summary> 
-I think copy [roadmap.sh](roadmap.sh) websiter to chinal!
-</details>
+1. Make a software about operate PDF file. I encounter a problem what remove brand information in download pdf file, but currently most tools need to paid. So, i want to make a software about operate pdf file and share others. I can referrence some softwares, like `PDFescape` `PDF-XChange Editor` `Sejda PDF Editor` `LibreOffice Draw` `Smallpdf` `Zamzar` `Convertio` `PDF2JPG.net`
+2. Make an roadmap website, like [roadmap.sh](https://roadmap.sh). I think to do same of website in china, and help others.
+3. Make a software remove mosaic and chartlet, for [FunImage](https://github.com/geekmister/FunImage)
+4. Make an website for AI navigation. 
 
 # Use resources 👍 👍 👍
 
