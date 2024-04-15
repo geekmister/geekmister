@@ -150,6 +150,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 3. Make a software remove mosaic and chartlet, for [FunImage](https://github.com/geekmister/FunImage)
 4. Make an website for AI navigation.
 5. I think write client that vscode extension for all database. This is crazzy idea for currently me.
+6. Now, i not found translation extension for vscode! Yeah, i can try to do it.
 
 # Use resources 👍 👍 👍
 
