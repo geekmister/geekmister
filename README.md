@@ -151,6 +151,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 4. Make an website for AI navigation.
 5. I think write client that vscode extension for all database. This is crazzy idea for currently me.
 6. Now, i not found translation extension for vscode! Yeah, i can try to do it.
+7. I think... Can i to integrate like functions of emjoi and shiled and badge in vscode. Realtion write like all both to integrate in vscode extension.
 
 # Use resources 👍 👍 👍
 
