@@ -1,28 +1,21 @@
 <img width="100%" src="https://raw.githubusercontent.com/geekmister/geekmister/master/images/cover-drawing-en.png"/>
 
-## Hi, I'm &nbsp;[Geekmister](https://github.com/geekmister/)！&nbsp; 👋 👋 👋
+## Hi, I'm &nbsp;[Geekmister](https://github.com/geekmister/) 🎉 🎉 🎉
 
-### 🎉 &nbsp; Glad to see you here!
+### Glad to see you here
 
-Hi, I am Geekmister! I like github.com, because of share your results here and meet more people, that's a amusing paltform. 🤟 Then would to leran more knowledge 🤩, that's importanted! Glad to see you here, hope my share would help you... 😄
+Hi, I am Geekmister! I like github.com, because of share your results here and meet more people, that's a amusing paltform. 🤟 Then would to learn more knowledge 🤩, that's importanted! Glad to see you here, hope my share would help you... 😄
 
-<div align="center">
-    <img alt="Night Coding" src="https://raw.githubusercontent.com/geekmister/geekmister/master/gifs/night-coding.gif"/>
-</div>
 <a href="https://www.buymeacoffee.com/geekmister" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-### :clock1: &nbsp;  My recent situation
+### My recent situation
 
-- I working in a commany as a software test manager, but I am also an full stack engineer. :man_technologist:
-- Personal IP is currently being built, contains projects:
-    - [gm-middle-tools-graph](https://github.com/geekmister/gm-graph) :art: what use draw all kinds of imgaing by h5 canvas and from which I can learn mathematics.
-    - [gm-frontend-web-blog](https://github.com/geekmister/gm-blog) :man: what is my persoanl blog and I ready make it would be calculability document.
-    - [gm-middle-tools-python-samples](https://github.com/geekmister/gm-middle-tools-python-samples) :snake: what I write some python code samples to write python code easly.
-    - [gm-middle-tools-spider](https://github.com/geekmister/gm-middle-tools-spider) 🕷️ what help me crawing all kinds of information i need and ready for [gm-frontend-web-blog](https://github.com/geekmister/gm-blog)
-- Recently, reading books about **Social Engineerig: Human holes in security system** and **Scrapy network spider tutorials**.
-- Most importantly, I'm fighting my depression. At least, I can control interval one day drink beer, when no drink beer eat medicine.
+- I am working in a commany as a software test manager, but I am also an full stack software engineer and a indepentend developer. :man_technologist:
+- Built my personal spider system to crawing data about i need. The repository and data is not open because that is sensitive. But, i would provided website to query data about you need! :spider: 
+- Recently, learing hardware development. :man_technologist:
+- Most importantly, I'm fighting my depression. At least, I can control interval one day drink beer, when no drink beer eat medicine. :brain:
 
-### :open_hands: &nbsp; Open source project
+### Open source project
 
 <table>
     <thead>
@@ -37,65 +30,17 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
     </thead>
     <tbody>
       <tr>
-      	<td><a href="https://github.com/geekmister/gm-blog"><b> 🕷️ gm-middle-tools-spider</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-middle-tools-spider?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-middle-tools-spider?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-middle-tools-spider?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-middle-tools-spider?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-middle-tools-spider?style=flat-square"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/geekmister/gm-blog"><b> 🐍 gm-middle-tools-python-samples</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-middle-tools-python-samples?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-middle-tools-python-samples?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-middle-tools-python-samples?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-middle-tools-python-samples?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-middle-tools-python-samples?style=flat-square"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/geekmister/gm-blog"><b> :man: gm-middle-web-blog</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-blog?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-blog?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-blog?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-blog?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-blog?style=flat-square"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/geekmister/geekmister"><b> 🤓 geekmister</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/geekmister?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/geekmister?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/geekmister?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/geekmister?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/geekmister?style=flat-square"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/geekmister/gm-languages-translate"><b> 🗣️ gm-languages-translate</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-languages-translate?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-languages-translate?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-languages-translate?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-languages-translate?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-languages-translate?style=flat-square"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/geekmister/gm-graph"><b> 🎨 gm-middle-tools-graph</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-graph?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-graph?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-graph?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-graph?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-graph?style=flat-square"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/geekmister/WebDriverAgent"><b> 📱 WebDriverAgent</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/WebDriverAgent?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/WebDriverAgent?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/WebDriverAgent?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/WebDriverAgent?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/WebDriverAgent?style=flat-square"/></td>
+      	<td><a href="https://github.com/geekmister/FunImage"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FunImage</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/FunImage?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/FunImage?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/FunImage?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/FunImage?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/FunImage?style=flat-square"/></td>
       </tr>
     </tbody>
  </table>
 
-### :hammer_and_wrench: &nbsp; Technogoly Stack
+### Technogoly Stack
 
 ![OpenJDK](https://img.shields.io/badge/-OpenJDK-05122A?style=flat&logo=openjdk)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -113,7 +58,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
 
-### :earth_asia: &nbsp; Languages
+### &nbsp; Languages
 
 <table>
     <thead align="left">
@@ -153,7 +98,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 6. Now, i not found translation extension for vscode! Yeah, i can try to do it.
 7. I think... Can i to integrate like functions of emjoi and shiled and badge in vscode. Realtion write like all both to integrate in vscode extension.
 
-# Use resources 👍 👍 👍
+# Use resources
 
 The following resources were used when writing a personal introduction page, which is very useful! So, I must express my thanks here!
 
