@@ -97,6 +97,8 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 5. I think write client that vscode extension for all database. This is crazzy idea for currently me.
 6. Now, i not found translation extension for vscode! Yeah, i can try to do it.
 7. I think... Can i to integrate like functions of emjoi and shiled and badge in vscode. Realtion write like all both to integrate in vscode extension.
+8. I need to do a chinese emjoi picker because supported english currently. This is [Emjoi picker demo](https://github-emoji-picker.rickstaa.dev/), to read source code into [Emjoi picker source code](https://github.com/rickstaa/github-emoji-picker)
+9. I have a idea becasue the [WeChatMsg](https://github.com/geekmister/WeChatMsg/tree/master) project that get MacOS, Android, iOS data to compare then merge.
 
 # Use resources
 
