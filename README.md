@@ -101,6 +101,8 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 9. I have a idea becasue the [WeChatMsg](https://github.com/geekmister/WeChatMsg/tree/master) project that get MacOS, Android, iOS data to compare then merge.
 10. I can develop a software like iPhone device infomation of LoveThink, also can develop android, see the under image:
 ![iPhoenDeviceInfoOfLoveThink](iPhoenDeviceInfoOfLoveThink.png)
+11. Develop voice recorder for iPhone that is helpful!
+12. Develop video record for all plaform are helpful.
 
 # Use resources
 
