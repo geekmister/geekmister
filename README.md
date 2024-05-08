@@ -103,6 +103,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 ![iPhoenDeviceInfoOfLoveThink](iPhoenDeviceInfoOfLoveThink.png)
 11. Develop voice recorder for iPhone that is helpful!
 12. Develop video record for all plaform are helpful.
+13. I hava an idea what save multi-screenshot to clipboard when screenshot on my working. Then paste screenshot is very easy!
 
 # Use resources
 
