@@ -11,8 +11,8 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 ### My recent situation
 
 - I am working in a commany as a software test manager, but I am also an full stack software engineer and a indepentend developer. :man_technologist:
-- Built my personal spider system to crawing data about i need. The repository and data is not open because that is sensitive. But, i would provided website to query data about you need! :spider: 
-- Recently, learing hardware development. :man_technologist:
+- Developing offical website v2.0 of zmlh that is a outsorcing project. :building_construction:
+- Builting my personal spider system to crawing data about i need. The repository and data is not open because that is sensitive. But, i would provided website to query data about you need! :spider: 
 - Most importantly, I'm fighting my depression. At least, I can control interval one day drink beer, when no drink beer eat medicine. :brain:
 
 ### Open source project
@@ -20,17 +20,17 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 <table>
     <thead>
       <tr border: none;>
-        <td><b> 💻 Projects</b></td>
-        <td><b> 🌟 Stars</b></td>
-        <td><b> 🍴 Forks</b></td>
-        <td><b> 🐛 Issues</b></td>
-        <td><b> 🔔 Pull Requests</b></td>
-        <td><b> 👨‍💻 Language</b></td>
+        <td><b>Projects 💻 </b></td>
+        <td><b>Stars 🌟 </b></td>
+        <td><b>Forks 🍴 </b></td>
+        <td><b>Issues 🐛 </b></td>
+        <td><b>Pull Requests 🔔 </b></td>
+        <td><b>Language 👨‍💻 </b></td>
       </tr>
     </thead>
     <tbody>
       <tr>
-      	<td><a href="https://github.com/geekmister/FunImage"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FunImage</b></a></td>
+      	<td><a href="https://github.com/geekmister/FunImage">FunImage</a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/FunImage?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/FunImage?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/FunImage?style=flat-square"/></td>
@@ -108,7 +108,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 
 The following resources were used when writing a personal introduction page, which is very useful! So, I must express my thanks here!
 
-- 💟 &nbsp; [Gits of Github Markdown](https://gist.github.com/rxaviers/7360908) &nbsp; Using these emojis in the introduction page can make your content more vibrant and beautiful!
+- 💟 &nbsp; [GitHub Emoji Picker](https://github-emoji-picker.rickstaa.dev/) &nbsp; Using these emojis in the introduction page can make your content more vibrant and beautiful!
 - ⭐ &nbsp; [Vistor Badge](https://visitor-badge.glitch.me/) &nbsp; Add this Script to count your intro pages, questions, and repository visits.
 - 🎉 &nbsp; [profile-template](https://github.com/topics/profile-template) &nbsp; I used these templates when writing my profile page. Thank you very much to all the contributors!
 - :heavy_dollar_sign: &nbsp; [Buy me a coffee](https://www.buymeacoffee.com/) &nbsp; A foreign similar reward platform!
