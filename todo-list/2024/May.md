@@ -8,3 +8,7 @@
 
 1. Write an acticle about the difference between self-discipline and habit. Be inspired by a book named just do one thing.
 2. Today, is worrying day. Why? Need to think quietly. I must be to find ways that therapeutic schedule for me.
+3. Handing things that international offical website of Zhi-Mei-Li-He.
+
+    - Analyse of function think mind.
+    - Development scheme.
