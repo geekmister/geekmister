@@ -103,6 +103,8 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 11. Develop voice recorder for iPhone that is helpful!
 12. Develop video record for all plaform are helpful.
 13. I hava an idea what save multi-screenshot to clipboard when screenshot on my working. Then paste screenshot is very easy!
+14. The article given me more inspiration. [The article](https://mp.weixin.qq.com/s/Yo8wcWift-7e9A3oN-r7AQ)
+15. I want to make a machine for smash pages that like very easy to easy, and is a interesting thing.
 
 # Use resources
 
