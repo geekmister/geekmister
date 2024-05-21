@@ -105,6 +105,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 13. I hava an idea what save multi-screenshot to clipboard when screenshot on my working. Then paste screenshot is very easy!
 14. The article given me more inspiration. [The article](https://mp.weixin.qq.com/s/Yo8wcWift-7e9A3oN-r7AQ)
 15. I want to make a machine for smash pages that like very easy to easy, and is a interesting thing.
+16. [The wheather pre report of micro](https://www.msn.cn/zh-cn/weather/forecast/in-%E5%B9%BF%E4%B8%9C%E7%9C%81,%E6%B7%B1%E5%9C%B3%E5%B8%82?ocid=my02d8&cvid=c5880f766b5d4d63a6646bd935749753&loc=eyJsIjoi572X5rmW5Yy6IiwiciI6IuW5v%2BS4nOecgSIsInIyIjoi5rex5Zyz5biCIiwiYyI6IuS4reWNjuS6uuawkeWFseWSjOWbvSIsImkiOiJDTiIsImciOiJ6aC1jbiIsIngiOiIxMTQuMTMwOTU4NTU3MTI4OSIsInkiOiIyMi41NDgyMTIwNTEzOTE2In0%3D&weadegreetype=C) is very beautiful, then i want to imitative writing one.
 
 # Use resources
 
