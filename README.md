@@ -108,6 +108,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 16. [The wheather pre report of micro](https://www.msn.cn/zh-cn/weather/forecast/in-%E5%B9%BF%E4%B8%9C%E7%9C%81,%E6%B7%B1%E5%9C%B3%E5%B8%82?ocid=my02d8&cvid=c5880f766b5d4d63a6646bd935749753&loc=eyJsIjoi572X5rmW5Yy6IiwiciI6IuW5v%2BS4nOecgSIsInIyIjoi5rex5Zyz5biCIiwiYyI6IuS4reWNjuS6uuawkeWFseWSjOWbvSIsImkiOiJDTiIsImciOiJ6aC1jbiIsIngiOiIxMTQuMTMwOTU4NTU3MTI4OSIsInkiOiIyMi41NDgyMTIwNTEzOTE2In0%3D&weadegreetype=C) is very beautiful, then i want to imitative writing one.
 17. I found what do chinese emjoy static and dynamic picker supported markdown then open source. Dynamic can refer to [this comment](https://gist.github.com/rxaviers/7360908?permalink_comment_id=5056224#gistcomment-5056224).
 18. Odd... Now not have github markplace in china. Do a website then those accounts of recommend acticles is will offline. 
+19. Make an knowge libiary by ai agent or number life like chat to gril friend.
 
 # Use resources
 
