@@ -109,6 +109,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 17. I found what do chinese emjoy static and dynamic picker supported markdown then open source. Dynamic can refer to [this comment](https://gist.github.com/rxaviers/7360908?permalink_comment_id=5056224#gistcomment-5056224).
 18. Odd... Now not have github markplace in china. Do a website then those accounts of recommend acticles is will offline. 
 19. Make an knowge libiary by ai agent or number life like chat to gril friend.
+20. SSH connections in terminal how to do manage? Can I do a software to manage these SSH connections?
 
 # Use resources
 
