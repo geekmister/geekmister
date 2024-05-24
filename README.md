@@ -110,6 +110,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 18. Odd... Now not have github markplace in china. Do a website then those accounts of recommend acticles is will offline. 
 19. Make an knowge libiary by ai agent or number life like chat to gril friend.
 20. SSH connections in terminal how to do manage? Can I do a software to manage these SSH connections?
+21. I can a software what download yutube and x video. Like [xdown is download yutube video](https://xdown.chuangzuoniu.com/) and **Chrome extension of x video downloader**.
 
 # Use resources
 
