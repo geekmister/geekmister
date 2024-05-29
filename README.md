@@ -144,7 +144,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 20. SSH connections in terminal how to do manage? Can I do a software to manage these SSH connections?
 21. I can a software what download yutube and x video. Like [xdown is download yutube video](https://xdown.chuangzuoniu.com/) and **Chrome extension of x video downloader** and [think4v](https://utubedown.think4v.cn/).
 22. I found start map in Astrophile magazine, so want to make a software about start map. I found a project about start map. [Stellarium](https://github.com/Stellarium/stellarium)
-23. Found a good project in github, I also to make it.
+23. Found a good project in github, I also to make it. See the [design-material repository](https://github.com/YOYZHANG/design-material).
 
 # Use resources
 
