@@ -130,7 +130,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 6. Now, i not found translation extension for vscode! Yeah, i can try to do it.
 7. I think... Can i to integrate like functions of emjoi and shiled and badge in vscode. Realtion write like all both to integrate in vscode extension.
 8. I need to do a chinese emjoi picker because supported english currently. This is [Emjoi picker demo](https://github-emoji-picker.rickstaa.dev/), to read source code into [Emjoi picker source code](https://github.com/rickstaa/github-emoji-picker)
-9. I have a idea becasue the [WeChatMsg](https://github.com/geekmister/WeChatMsg/tree/master) project that get MacOS, Android, iOS data to compare then merge.
+9. I have a idea becasue the [WeChatMsg](https://github.com/LC044/WeChatMsg) project that get MacOS, Android, iOS data to compare then merge.
 10. I can develop a software like iPhone device infomation of LoveThink, also can develop android, [see image](./images/iPhoenDeviceInfoOfLoveThink.png).
 11. Develop voice recorder for iPhone that is helpful!
 12. Develop video record for all plaform are helpful.
