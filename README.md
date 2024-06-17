@@ -150,6 +150,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 26. My blog add auto translate to all lanuages, do international blog website.
 27. I want to make a website to analyse personal github data by type yourself github url, then also add comapre to others in the future! This is a good idea. :smile:
 28. See this article bottom part for [OpenCloudOS supported wechat](https://mp.weixin.qq.com/s/TVtjvvYrDy5O5UQsxpPdRw). Why not to do a application store that with command to install software is whiny. To call upon everyone to maintain dnf repository. 
+29. During night yesterday, I watch a video in douyin about the product ultrasonic clean glasses. I think embedded and 3D print technology make some product to sale and built in public. The video in my douyin collections.
 
 # Use resources
 
