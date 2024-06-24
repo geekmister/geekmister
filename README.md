@@ -125,6 +125,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 1. Make a software about operate PDF file. I encounter a problem what remove brand information in download pdf file, but currently most tools need to paid. So, i want to make a software about operate pdf file and share others. I can referrence some softwares, like `PDFescape` `PDF-XChange Editor` `Sejda PDF Editor` `LibreOffice Draw` `Smallpdf` `Zamzar` `Convertio` `PDF2JPG.net`
 2. Make an roadmap website, like [roadmap.sh](https://roadmap.sh). I think to do same of website in china, and help others.
 3. Make a software remove mosaic and chartlet, for [FunImage](https://github.com/geekmister/FunImage)
+  - Encryption and decryption image app that the image file storage to local machine is not displayed photo of phone. The image only view by this app.
 4. Make an website for AI navigation.
 5. I think write client that vscode extension for all database. This is crazzy idea for currently me.
 6. Now, i not found translation extension for vscode! Yeah, i can try to do it.
