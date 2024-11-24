@@ -30,44 +30,12 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
     </thead>
     <tbody>
       <tr>
-      	<td><a href="https://github.com/geekmister/FunImage">FunImage</a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/FunImage?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/FunImage?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/FunImage?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/FunImage?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/FunImage?style=flat-square"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/geekmister/gm-graph">gm-graph</a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/gm-graph?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/gm-graph?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/gm-graph?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/gm-graph?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/gm-graph?style=flat-square"/></td>
-      </tr>
-      <tr>
       	<td><a href="https://github.com/geekmister/AutoClient">AutoClient</a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/AutoClient?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/AutoClient?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/AutoClient?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/AutoClient?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/AutoClient?style=flat-square"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/geekmister/GmblogReader">GmblogReader</a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/GmblogReader?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/GmblogReader?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/GmblogReader?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/GmblogReader?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/GmblogReader?style=flat-square"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/geekmister/GmblogEditor">GmblogEditor</a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/GmblogEditor?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/GmblogEditor?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/GmblogEditor?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/geekmister/GmblogEditor?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/GmblogEditor?style=flat-square"/></td>
       </tr>
     </tbody>
  </table>
