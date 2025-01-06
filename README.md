@@ -122,6 +122,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 29. During night yesterday, I watch a video in douyin about the product ultrasonic clean glasses. I think embedded and 3D print technology make some product to sale and built in public. The video in my douyin collections.
 30. Windows, MacOS and Linux has not like xshell and xftp softwares. Others, if Linux conntect to Windows or MacOS by softwares? I can make these softwares in the future.
 31. Now, Google translate of offical is not have function module word-note, I think what to do for this?
+32. I have an idea that do AI tools evaluation.
 
 # Use resources
 
