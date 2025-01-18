@@ -90,39 +90,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 
 ### My inspiration
 
-1. Make a software about operate PDF file. I encounter a problem what remove brand information in download pdf file, but currently most tools need to paid. So, i want to make a software about operate pdf file and share others. I can referrence some softwares, like `PDFescape` `PDF-XChange Editor` `Sejda PDF Editor` `LibreOffice Draw` `Smallpdf` `Zamzar` `Convertio` `PDF2JPG.net`
-2. Make an roadmap website, like [roadmap.sh](https://roadmap.sh). I think to do same of website in china, and help others.
-3. Make a software remove mosaic and chartlet, for [FunImage](https://github.com/geekmister/FunImage)
-  - Encryption and decryption image app that the image file storage to local machine is not displayed photo of phone. The image only view by this app.
-4. Make an website for AI navigation.
-5. I think write client that vscode extension for all database. This is crazzy idea for currently me.
-6. Now, i not found translation extension for vscode! Yeah, i can try to do it.
-7. I think... Can i to integrate like functions of emjoi and shiled and badge in vscode. Realtion write like all both to integrate in vscode extension.
-8. I need to do a chinese emjoi picker because supported english currently. This is [Emjoi picker demo](https://github-emoji-picker.rickstaa.dev/), to read source code into [Emjoi picker source code](https://github.com/rickstaa/github-emoji-picker)
-9. I have a idea becasue the [WeChatMsg](https://github.com/LC044/WeChatMsg) project that get MacOS, Android, iOS data to compare then merge.
-10. I can develop a software like iPhone device infomation of LoveThink, also can develop android, [see image](./images/iPhoenDeviceInfoOfLoveThink.png).
-11. Develop voice recorder for iPhone that is helpful!
-12. Develop video record for all plaform are helpful.
-13. I hava an idea what save multi-screenshot to clipboard when screenshot on my working. Then paste screenshot is very easy!
-14. The article given me more inspiration. [The article](https://mp.weixin.qq.com/s/Yo8wcWift-7e9A3oN-r7AQ)
-15. I want to make a machine for smash pages that like very easy to easy, and is a interesting thing.
-16. [The wheather pre report of micro](https://www.msn.cn/zh-cn/weather/forecast/in-%E5%B9%BF%E4%B8%9C%E7%9C%81,%E6%B7%B1%E5%9C%B3%E5%B8%82?ocid=my02d8&cvid=c5880f766b5d4d63a6646bd935749753&loc=eyJsIjoi572X5rmW5Yy6IiwiciI6IuW5v%2BS4nOecgSIsInIyIjoi5rex5Zyz5biCIiwiYyI6IuS4reWNjuS6uuawkeWFseWSjOWbvSIsImkiOiJDTiIsImciOiJ6aC1jbiIsIngiOiIxMTQuMTMwOTU4NTU3MTI4OSIsInkiOiIyMi41NDgyMTIwNTEzOTE2In0%3D&weadegreetype=C) is very beautiful, then i want to imitative writing one.
-17. I found what do chinese emjoy static and dynamic picker supported markdown then open source. Dynamic can refer to [this comment](https://gist.github.com/rxaviers/7360908?permalink_comment_id=5056224#gistcomment-5056224).
-18. Odd... Now not have github markplace in china. Do a website then those accounts of recommend acticles is will offline. 
-19. Make an knowge libiary by ai agent or number life like chat to gril friend.
-20. SSH connections in terminal how to do manage? Can I do a software to manage these SSH connections?
-21. I can a software what download yutube and x video. Like [xdown is download yutube video](https://xdown.chuangzuoniu.com/) and **Chrome extension of x video downloader** and [think4v](https://utubedown.think4v.cn/).
-22. I found start map in Astrophile magazine, so want to make a software about start map. I found a project about start map. [Stellarium](https://github.com/Stellarium/stellarium)
-23. Found a good project in github, I also to make it. See the [design-material repository](https://github.com/YOYZHANG/design-material).
-24. Found one websites what name is "2024年最新注册美区Apple ID保姆级教程". There are two website in context, [virtual intentify card genarate website](shenfendaquan.com) and [virtual intentify card genarate website](meiguodizhi.com). I hava an idea, these website are earning monney by adversting. So, I can I also do.
-25. At the yesterday night, I found some interesting things what phone wrapper images in `X`. I think I hope to do a software that wrapper images for me. 
-26. My blog add auto translate to all lanuages, do international blog website.
-27. I want to make a website to analyse personal github data by type yourself github url, then also add comapre to others in the future! This is a good idea. :smile:
-28. See this article bottom part for [OpenCloudOS supported wechat](https://mp.weixin.qq.com/s/TVtjvvYrDy5O5UQsxpPdRw). Why not to do a application store that with command to install software is whiny. To call upon everyone to maintain dnf repository. 
-29. During night yesterday, I watch a video in douyin about the product ultrasonic clean glasses. I think embedded and 3D print technology make some product to sale and built in public. The video in my douyin collections.
-30. Windows, MacOS and Linux has not like xshell and xftp softwares. Others, if Linux conntect to Windows or MacOS by softwares? I can make these softwares in the future.
-31. Now, Google translate of offical is not have function module word-note, I think what to do for this?
-32. I have an idea that do AI tools evaluation.
+Wait。。。
 
 # Use resources
 
