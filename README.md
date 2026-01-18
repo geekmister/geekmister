@@ -98,6 +98,10 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 
 我在做小红书运营时，发现我想知道自己的账号出现了哪些问题？同类账号都有哪些？账号权重是多少？都有哪些竞品？是否可以做一些竞品分析？所以基于这些我想做一款小红书的全面分析，但是我不准备把这个开源，采取的是收集大家的需求我来实现。不开源的原因是这款软件可能会进行商业化！
 
+#### 3. 个人云存储
+
+手机里有大量照片视频或者文件，我又有多个手机和 Pad，用市面上的各类云盘不是收费开会员还是开会员，如果这样那不如把钱交给 COS，做一套个人云存储服务
+
 # Use resources
 
 The following resources were used when writing a personal introduction page, which is very useful! So, I must express my thanks here!
