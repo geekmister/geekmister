@@ -4,7 +4,7 @@
 
 ### Glad to see you here
 
-Hi, I am Geekmister! I like github.com, because of share your results here and meet more people, that's a amusing paltform. 🤟 Then would to learn more knowledge 🤩, that's importanted! Glad to see you here, hope my share would help you... 😄
+Hi, I am Geekmister! I like github.com, because of share your results here and meet more people, that's a amusing paltform. 🤟 Then would to learn more knowledge 🤩, that's important! Glad to see you here, hope my share would help you... 😄
 
 <a href="https://www.buymeacoffee.com/geekmister" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
@@ -17,6 +17,7 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
 
 ### Open source project
 
+<div style="overflow-x: auto;">
 <table>
     <thead>
       <tr border: none;>
@@ -30,7 +31,11 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
     </thead>
     <tbody>
       <tr>
-      	<td><a href="https://github.com/geekmister/AutoClient">AutoClient</a></td>
+      	<td>
+        <a href="https://github.com/geekmister/AutoClient">AutoClient</a><br>
+        <small>自动化客户端工具，简化重复任务</small><br>
+        <small>Status: <span style="color: green;">Active</span></small>
+        </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/AutoClient?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/AutoClient?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/AutoClient?style=flat-square"/></td>
@@ -38,7 +43,11 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/AutoClient?style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/geekmister">geekmister</a></td>
+      	<td>
+        <a href="https://github.com/geekmister/geekmister">geekmister</a><br>
+        <small>个人主页和项目集合</small><br>
+        <small>Status: <span style="color: green;">Active</span></small>
+        </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/geekmister?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/geekmister?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/geekmister?style=flat-square"/></td>
@@ -46,7 +55,11 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/geekmister?style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/Iplay">Iplay</a></td>
+      	<td>
+        <a href="https://github.com/geekmister/Iplay">Iplay</a><br>
+        <small>音乐播放器应用</small><br>
+        <small>Status: <span style="color: green;">Active</span></small>
+        </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/Iplay?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/Iplay?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/Iplay?style=flat-square"/></td>
@@ -54,7 +67,11 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/geekmister/Iplay?style=flat-square"/></td>
       </tr>
       <tr>
-      	<td><a href="https://github.com/geekmister/AUmoji">AUmoji</a></td>
+      	<td>
+        <a href="https://github.com/geekmister/AUmoji">AUmoji</a><br>
+        <small>表情符号工具集</small><br>
+        <small>Status: <span style="color: green;">Active</span></small>
+        </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/geekmister/AUmoji?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/geekmister/AUmoji?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/geekmister/AUmoji?style=flat-square"/></td>
@@ -63,33 +80,39 @@ Hi, I am Geekmister! I like github.com, because of share your results here and m
       </tr>
     </tbody>
  </table>
+</div>
 
 ### Technogoly Stack
 
-![OpenJDK](https://img.shields.io/badge/-OpenJDK-05122A?style=flat&logo=openjdk)&nbsp;
+#### 前端技术
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Vue 3](https://img.shields.io/badge/-Vue3-05122A?style=flat&logo=vuedotjs)&nbsp;
+
+#### 后端技术
+![OpenJDK](https://img.shields.io/badge/-OpenJDK-05122A?style=flat&logo=openjdk)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Springboot](https://img.shields.io/badge/-springboot-05122A?style=flat&logo=springboot)&nbsp;
+
+#### 工具与其他
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)
 ![Sketch](https://img.shields.io/badge/-Sketch-05122A?style=flat&logo=sketch)&nbsp;
-![Vue 3](https://img.shields.io/badge/-Vue3-05122A?style=flat&logo=vuedotjs)&nbsp;
-![Springboot](https://img.shields.io/badge/-springboot-05122A?style=flat&logo=springboot)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
 
-### &nbsp; Languages
+### Languages
 
 <table>
     <thead align="left">
         <tr>
-            <td> :cn: Simplified Chinese ★★★ </td>
-            <td> :england: English ★★☆ </td>
-            <td> :jp: Japanese ★☆☆ </td>
+            <td>:cn: Simplified Chinese ★★★</td>
+            <td>:england: English ★★☆</td>
+            <td>:jp: Japanese ★☆☆</td>
         </tr>
     </thead>
 </table>
