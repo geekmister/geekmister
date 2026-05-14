@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Geekmister"
-  text: "Geekmister personal blog"
+  name: "极客先生"
+  text: "个人博客，记录学习和生活的点滴！"
   tagline: My great project tagline
   actions:
     - theme: brand
