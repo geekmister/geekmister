@@ -101,10 +101,10 @@ pie title 技术能力分布
 
 本页面借助了许多优秀的开源工具和社区资源，特别感谢每一位持续分享灵感的创造者：
 
-· 🎨 GitHub Emoji 与徽章生态 – 让表达更鲜明 → 官方 Emoji 列表 · 徽章
-· 🛡️ Shields.io – 让信息展示更清晰统一
-· 📊 Mermaid – 让结构图表更直观
-· 📈 GitHub Readme Stats – 让公开数据更具可视化表现
+- 🎨 **GitHub Emoji 与徽章生态** – 让表达更鲜明 → [官方 Emoji 列表](https://github.com/ikatyang/emoji-cheat-sheet) · [徽章](https://github.com/badges/shields)
+- 🛡️ **[Shields.io](https://shields.io/)** – 让信息展示更清晰统一
+- 📊 **[Mermaid](https://mermaid.js.org/)** – 让结构图表更直观
+- 📈 **[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)** – 让公开数据更具可视化表现
 
 ---
 
