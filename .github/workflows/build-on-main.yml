@@ -1,4 +1,4 @@
-name: Build on push to main
+name: Build and deploy on main
 
 on:
   push:
@@ -6,8 +6,8 @@ on:
       - main
 
 jobs:
-  build:
-    name: Build docs
+  build-and-deploy:
+    name: Build and deploy docs
     runs-on: ubuntu-latest
 
     steps:
@@ -25,3 +25,14 @@ jobs:
 
       - name: Build VitePress docs
         run: yarn docs:build
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: docs/.vitepress/dist
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
