@@ -19,16 +19,16 @@ Hi，I'm **Geekmister**, nice to meet you here 😆
 
 I am a 🧑‍💻 full-stack independent developer and also a 🧠 psychological analyst, currently diving into 🤖 AI entrepreneurship as a 🏢 one-person company 🚀. My signature project is the WeChat mini‑program 「Emotion Hut」🧩🆘, which features a variety of 🧘‍♀️ emotional first‑aid modules designed to help users ⚡ quickly stabilise their emotions during mood swings 📉→📈. This mini‑program has already surpassed 50,000 👥 total users, with a stable daily active user count of 1,000+ 📊✨. It brings me 💰 financial rewards, and at the same time, I gain ❤️ abundant spiritual fulfillment from 🤝 helping others. I love turning my 💡 ideas into reality step by step with 💻 code, so besides 「Emotion Hut」, I am continuously and incrementally developing 🛠️ various products, constantly iterating and polishing 🔁💎. On the psychological analyst side, I have served over 1,000 🫂🧑‍🤝‍🧑 clients both online and offline, accompanying them through 😰 anxiety, 💢 emotional distress, or 🔗 relationship difficulties 🌪️. Being able to truly 🫶 help others is something that makes me feel genuinely 😊 happy ✨🎯.
 
-## 🚀 项目聚焦
+## 🚀 Project Focus
 
 ### 📁 [geekmister](https://github.com/geekmister/geekmister)
 > This project integrates my 📂 GitHub Profile, 📝 personal blog, and 💡 inspiration Issue discussions, collectively and completely shaping my 🧑‍💻 personal IP.
 
-[![Status](https://img.shields.io/badge/Status-Continuous Iteration-brightgreen)]()
+[![Status](https://img.shields.io/badge/Status-ContinuousIteration-brightgreen)]()
 [![Technology](https://img.shields.io/badge/Technology-Markdown%20%7C%20Frontend-blue)]()
 [![Stars](https://img.shields.io/github/stars/geekmister/geekmister?style=social)]()
 [![Last Commit](https://img.shields.io/github/last-commit/geekmister/geekmister)]()
-[![Demo](https://img.shields.io/badge/🚀-Online Demo-blueviolet)](https://github.com/geekmister)
+[![Demo](https://img.shields.io/badge/🚀-OnlineDemo-blueviolet)](geekmister.github.io/geekmister/)
 
 ---
 
