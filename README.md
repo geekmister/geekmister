@@ -13,6 +13,12 @@ Committed to product development and artificial intelligence, driving OneAI towa
 
 ---
 
+<p align="center">
+	<a href="README.zh-CN.md">
+		<img src="https://img.shields.io/badge/中文-🇨🇳-111827.svg?style=for-the-badge" alt="中文版本" />
+	</a>
+</p>
+
 ## ✨ Personal Profile
 
 Hi，I'm **Geekmister**, nice to meet you here 😆
