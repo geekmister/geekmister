@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/geekmister/',
   title: "极客先生",
   description: "个人博客，记录学习和生活的点滴",
   locales: {
