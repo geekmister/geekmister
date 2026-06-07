@@ -27,30 +27,35 @@ I am a 🧑‍💻 full-stack independent developer and also a 🧠 psychologica
 [![Status](https://img.shields.io/badge/Status-ContinuousIteration-brightgreen)]()
 [![Technology](https://img.shields.io/badge/Technology-Markdown%20%7C%20Frontend-blue)]()
 [![Stars](https://img.shields.io/github/stars/geekmister/geekmister?style=social)]()
-[![Last Commit](https://img.shields.io/github/last-commit/geekmister/geekmister)]()
+[![Last Commit](https://img.shields.io/github/last-commit/geekmister/geekmister?style=social)]()
 [![Demo](https://img.shields.io/badge/🚀-OnlineDemo-blueviolet)](geekmister.github.io/geekmister/)
 
 ---
 
-## 🧭 我正在做什么
+## 🧭 What am i doing?
 
-- 为项目建立更稳定的质量基线与交付流程
-- 打磨个人品牌主页与作品展示体系
-- 设计更具复用价值的自动化工作流
-- 让技术输出兼具专业度、完成度与美感
+<details>
+<summary>🗓 June</summary>
 
-## 🧰 技术栈
+<br>
+
+- [ ] 🧩 Continuously iterate the "Emotional House" WeChat mini-program to polish the emotional first aid experience
+- [ ] 📚 deep learning Advanced mathematics: linear algebra, Probability Theory, Calculus  
+
+</details>
+
+## 🧰 Technolgy Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,vue,py,java,nodejs,spring,git,github,vscode,md" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,vue,py,nodejs,git,github,vscode,md" />
 </p>
 
-## 🌍 语言能力
+## 🌍 language ability
 
 <p align="left">
-  <img src="https://img.shields.io/badge/中文-母语-2E8B57?style=for-the-badge&logo=data:image/svg%2bxml;base64,..." />
-  <img src="https://img.shields.io/badge/英语-专业工作水平-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/日语-基础阅读-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chinese-native language-2E8B57?style=for-the-badge&logo=data:image/svg%2bxml;base64,..." />
+  <img src="https://img.shields.io/badge/English-professional work level-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Japanese-basic reading-FFA500?style=for-the-badge" />
 </p>
 
 
