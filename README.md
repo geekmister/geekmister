@@ -15,62 +15,22 @@ Committed to product development and artificial intelligence, driving OneAI towa
 
 ## ✨ Personal Profile
 
-你好，我是 **Geekmister**。
+Hi，I'm **Geekmister**, nice to meet you here 😆
 
-我专注于 **全栈开发、质量工程、自动化效率建设**，长期关注从想法落地到稳定交付的完整过程。相比单纯把功能做出来，我更在意系统是否可靠、体验是否顺滑、结构是否足够长期可维护。
-
-当前的核心关键词：
-
-- 🔭 持续构建个人作品与开源项目矩阵
-- 🧪 深耕测试体系、质量保障与工程流程优化
-- ⚙️ 探索自动化工具、数据抓取与效率型产品
-- 🌱 保持节奏，认真生活，也认真创造
+I am a 🧑‍💻 full-stack independent developer and also a 🧠 psychological analyst, currently diving into 🤖 AI entrepreneurship as a 🏢 one-person company 🚀. My signature project is the WeChat mini‑program 「Emotion Hut」🧩🆘, which features a variety of 🧘‍♀️ emotional first‑aid modules designed to help users ⚡ quickly stabilise their emotions during mood swings 📉→📈. This mini‑program has already surpassed 50,000 👥 total users, with a stable daily active user count of 1,000+ 📊✨. It brings me 💰 financial rewards, and at the same time, I gain ❤️ abundant spiritual fulfillment from 🤝 helping others. I love turning my 💡 ideas into reality step by step with 💻 code, so besides 「Emotion Hut」, I am continuously and incrementally developing 🛠️ various products, constantly iterating and polishing 🔁💎. On the psychological analyst side, I have served over 1,000 🫂🧑‍🤝‍🧑 clients both online and offline, accompanying them through 😰 anxiety, 💢 emotional distress, or 🔗 relationship difficulties 🌪️. Being able to truly 🫶 help others is something that makes me feel genuinely 😊 happy ✨🎯.
 
 ## 🚀 项目聚焦
 
-### 📁 [geekmister](https://github.com/你的用户名/geekmister)
-> 个人主页与项目展示集合，承担品牌表达与作品沉淀
+### 📁 [geekmister](https://github.com/geekmister/geekmister)
+> This project integrates my 📂 GitHub Profile, 📝 personal blog, and 💡 inspiration Issue discussions, collectively and completely shaping my 🧑‍💻 personal IP.
 
-[![状态](https://img.shields.io/badge/状态-持续迭代-brightgreen)]()
-[![技术](https://img.shields.io/badge/技术-Markdown%20%7C%20前端-blue)]()
-[![Stars](https://img.shields.io/github/stars/你的用户名/geekmister?style=social)]()
-[![Last Commit](https://img.shields.io/github/last-commit/你的用户名/geekmister)]()
-[![Demo](https://img.shields.io/badge/🚀-在线演示-blueviolet)](https://你的demo链接)
-
----
-
-### 🎵 [Iplay](https://github.com/你的用户名/Iplay)
-> 注重体验与交互细节的音乐播放器项目
-
-[![状态](https://img.shields.io/badge/状态-稳定维护-blue)]()
-[![技术](https://img.shields.io/badge/技术-Vue%20%7C%20JavaScript-blue)]()
-[![Stars](https://img.shields.io/github/stars/你的用户名/Iplay?style=social)]()
-[![Last Commit](https://img.shields.io/github/last-commit/你的用户名/Iplay)]()
-[![Demo](https://img.shields.io/badge/🚀-在线演示-blueviolet)](https://你的demo链接)
+[![Status](https://img.shields.io/badge/Status-Continuous Iteration-brightgreen)]()
+[![Technology](https://img.shields.io/badge/Technology-Markdown%20%7C%20Frontend-blue)]()
+[![Stars](https://img.shields.io/github/stars/geekmister/geekmister?style=social)]()
+[![Last Commit](https://img.shields.io/github/last-commit/geekmister/geekmister)]()
+[![Demo](https://img.shields.io/badge/🚀-Online Demo-blueviolet)](https://github.com/geekmister)
 
 ---
-
-### 😂 [AUmoji](https://github.com/你的用户名/AUmoji)
-> 面向表达场景的表情工具集合
-
-[![状态](https://img.shields.io/badge/状态-持续优化-yellow)]()
-[![技术](https://img.shields.io/badge/技术-HTML%20%7C%20CSS%20%7C%20JS-blue)]()
-[![Stars](https://img.shields.io/github/stars/你的用户名/AUmoji?style=social)]()
-[![Last Commit](https://img.shields.io/github/last-commit/你的用户名/AUmoji)]()
-[![Demo](https://img.shields.io/badge/🚀-在线演示-blueviolet)](https://你的demo链接)
-
----
-
-### 🤖 [AutoClient](https://github.com/你的用户名/AutoClient)
-> 面向重复性工作的任务自动化工具
-
-[![状态](https://img.shields.io/badge/状态-规划拓展-lightgrey)]()
-[![技术](https://img.shields.io/badge/技术-Node.js%20%7C%20自动化-blue)]()
-[![Stars](https://img.shields.io/github/stars/你的用户名/AutoClient?style=social)]()
-[![Last Commit](https://img.shields.io/github/last-commit/你的用户名/AutoClient)]()
-[![Demo](https://img.shields.io/badge/🚀-在线演示-blueviolet)](https://你的demo链接)
-
-
 
 ## 🧭 我正在做什么
 
