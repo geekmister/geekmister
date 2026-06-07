@@ -1,20 +1,19 @@
+<img width=“100%“ src="images/hero.png">
+
 <div align="center">
 
-# Geekmister · 数字创造者
+# Geekmister
 
-### 全栈软件工程师｜测试管理者｜独立开发者
+**`Independent Developer · OneAI (One Person Company)`**  
+*Also Psychologist*
 
-<img src="https://img.shields.io/badge/专注方向-工程效率%20%7C%20自动化%20%7C%20产品体验-0A66C2?style=for-the-badge" alt="专注方向徽标" />
-<img src="https://img.shields.io/badge/工作状态-持续构建中-111827?style=for-the-badge" alt="工作状态徽标" />
-<img src="https://img.shields.io/badge/开源态度-长期主义-16A34A?style=for-the-badge" alt="开源态度徽标" />
-
-> 以工程方法打磨产品，用审美标准定义细节。
+Committed to product development and artificial intelligence, driving OneAI towards profitability with a continuous working attitude, while adhering to long-termism.
 
 </div>
 
 ---
 
-## ✨ 个人简介
+## ✨ Personal Profile
 
 你好，我是 **Geekmister**。
 
@@ -29,12 +28,49 @@
 
 ## 🚀 项目聚焦
 
-| 项目 | 简介 | 状态 | 技术方向 |
-| --- | --- | --- | --- |
-| geekmister | 个人主页与项目展示集合，承担品牌表达与作品沉淀 | 持续迭代 | Markdown / 前端展示 |
-| Iplay | 注重体验与交互细节的音乐播放器项目 | 稳定维护 | Vue / JavaScript |
-| AUmoji | 面向表达场景的表情工具集合 | 持续优化 | HTML / CSS / JavaScript |
-| AutoClient | 面向重复性工作的任务自动化工具 | 规划拓展 | Node.js / 自动化 |
+### 📁 [geekmister](https://github.com/你的用户名/geekmister)
+> 个人主页与项目展示集合，承担品牌表达与作品沉淀
+
+[![状态](https://img.shields.io/badge/状态-持续迭代-brightgreen)]()
+[![技术](https://img.shields.io/badge/技术-Markdown%20%7C%20前端-blue)]()
+[![Stars](https://img.shields.io/github/stars/你的用户名/geekmister?style=social)]()
+[![Last Commit](https://img.shields.io/github/last-commit/你的用户名/geekmister)]()
+[![Demo](https://img.shields.io/badge/🚀-在线演示-blueviolet)](https://你的demo链接)
+
+---
+
+### 🎵 [Iplay](https://github.com/你的用户名/Iplay)
+> 注重体验与交互细节的音乐播放器项目
+
+[![状态](https://img.shields.io/badge/状态-稳定维护-blue)]()
+[![技术](https://img.shields.io/badge/技术-Vue%20%7C%20JavaScript-blue)]()
+[![Stars](https://img.shields.io/github/stars/你的用户名/Iplay?style=social)]()
+[![Last Commit](https://img.shields.io/github/last-commit/你的用户名/Iplay)]()
+[![Demo](https://img.shields.io/badge/🚀-在线演示-blueviolet)](https://你的demo链接)
+
+---
+
+### 😂 [AUmoji](https://github.com/你的用户名/AUmoji)
+> 面向表达场景的表情工具集合
+
+[![状态](https://img.shields.io/badge/状态-持续优化-yellow)]()
+[![技术](https://img.shields.io/badge/技术-HTML%20%7C%20CSS%20%7C%20JS-blue)]()
+[![Stars](https://img.shields.io/github/stars/你的用户名/AUmoji?style=social)]()
+[![Last Commit](https://img.shields.io/github/last-commit/你的用户名/AUmoji)]()
+[![Demo](https://img.shields.io/badge/🚀-在线演示-blueviolet)](https://你的demo链接)
+
+---
+
+### 🤖 [AutoClient](https://github.com/你的用户名/AutoClient)
+> 面向重复性工作的任务自动化工具
+
+[![状态](https://img.shields.io/badge/状态-规划拓展-lightgrey)]()
+[![技术](https://img.shields.io/badge/技术-Node.js%20%7C%20自动化-blue)]()
+[![Stars](https://img.shields.io/github/stars/你的用户名/AutoClient?style=social)]()
+[![Last Commit](https://img.shields.io/github/last-commit/你的用户名/AutoClient)]()
+[![Demo](https://img.shields.io/badge/🚀-在线演示-blueviolet)](https://你的demo链接)
+
+
 
 ## 🧭 我正在做什么
 
@@ -45,37 +81,19 @@
 
 ## 🧰 技术栈
 
-### 前端能力
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-熟练-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript 徽标" />
-  <img src="https://img.shields.io/badge/HTML5-语义化-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5 徽标" />
-  <img src="https://img.shields.io/badge/CSS3-视觉实现-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3 徽标" />
-  <img src="https://img.shields.io/badge/Vue-组件化开发-42B883?style=for-the-badge&logo=vuedotjs&logoColor=fff" alt="Vue 徽标" />
-</p>
-
-### 后端能力
-<p>
-  <img src="https://img.shields.io/badge/Python-工程实践-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python 徽标" />
-  <img src="https://img.shields.io/badge/Java-业务开发-007396?style=for-the-badge&logo=openjdk&logoColor=fff" alt="Java 徽标" />
-  <img src="https://img.shields.io/badge/Node.js-服务构建-43853D?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js 徽标" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-系统能力-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff" alt="Spring Boot 徽标" />
-</p>
-
-### 工程与协作
-<p>
-  <img src="https://img.shields.io/badge/Git-版本管理-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git 徽标" />
-  <img src="https://img.shields.io/badge/GitHub-开源协作-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub 徽标" />
-  <img src="https://img.shields.io/badge/VS%20Code-高频工作台-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=fff" alt="VS Code 徽标" />
-  <img src="https://img.shields.io/badge/Markdown-内容表达-000000?style=for-the-badge&logo=markdown&logoColor=fff" alt="Markdown 徽标" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,vue,py,java,nodejs,spring,git,github,vscode,md" />
 </p>
 
 ## 🌍 语言能力
 
-| 语言 | 能力说明 |
-| --- | --- |
-| 中文 | 母语，日常与专业表达无障碍 |
-| 英语 | 可用于技术阅读、文档编写与工作交流 |
-| 日语 | 基础理解，可进行入门级阅读 |
+<p align="left">
+  <img src="https://img.shields.io/badge/中文-母语-2E8B57?style=for-the-badge&logo=data:image/svg%2bxml;base64,..." />
+  <img src="https://img.shields.io/badge/英语-专业工作水平-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/日语-基础阅读-FFA500?style=for-the-badge" />
+</p>
+
+
 
 ## 📊 技术结构一览
 
