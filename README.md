@@ -58,72 +58,58 @@ I am a 🧑‍💻 full-stack independent developer and also a 🧠 psychologica
   <img src="https://img.shields.io/badge/Japanese-basic reading-FFA500?style=for-the-badge" />
 </p>
 
-
-
-## 📊 技术结构一览
+## 📊 Technology Structure Preview
 
 ```mermaid
-pie title 技术能力分布
-    "前端开发" : 4
-    "后端开发" : 4
-    "工程协作" : 4
+pie title technical capacity distribution
+    "Frontend" : 4
+    "Backend" : 4
+    "Artificial Intellgence" : 3
+    "Operation System" : 2
 ```
 
-## 📈 GitHub 数据面板
+## 📈 GitHub Data Pannel
 
 <div align="center">
   <a href="https://github.com/geekmister">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=geekmister&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub 数据统计" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=geekmister&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub data statistics" />
   </a>
   <a href="https://github.com/geekmister">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=geekmister&layout=compact&langs_count=8&theme=algolia" alt="常用语言统计" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=geekmister&layout=compact&langs_count=8&theme=algolia" alt="Common language statistics" />
   </a>
 </div>
 
-## 🤝 协作方式
+## 🤝 Collaboration Mode
 
-如果你对我的项目、想法或合作方向感兴趣，欢迎通过 Issue、邮件或社交平台联系我。无论是开源共建、产品交流，还是工程经验分享，我都很乐意认真沟通。
+💡 If you are interested in my projects, ideas, or collaboration directions, please feel free to contact me through issues 📩, emails ✉️, or social media 🌐. I am willing to communicate with each other seriously, whether it is open‑source co‑construction 🧩, product communication 🗣️, or engineering experience sharing 🛠️.
 
-### 参与建议
-
-1. Fork 仓库并创建你的功能分支
-2. 提交清晰、可追踪的变更说明
-3. 发起 Pull Request 并附上必要背景
-4. 对较大改动，建议先通过 Issue 讨论
-
-## 📬 联系方式
+## 📬 Contact Mode
 
 <div align="center">
   <a href="https://github.com/geekmister" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-geekmister-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub 联系徽标" />
+    <img src="https://img.shields.io/badge/GitHub-geekmister-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub contact logo" />
   </a>
   <a href="mailto:geekmister.mg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/邮箱-geekmister.mg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱联系徽标" />
-  </a>
-  <a href="https://linkedin.com/in/geekmister" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-职业主页-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn 联系徽标" />
+    <img src="https://img.shields.io/badge/Email-geekmister.mg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact logo" />
   </a>
   <a href="https://twitter.com/MrGeekmister" target="_blank">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-动态更新-111827?style=for-the-badge&logo=x&logoColor=white" alt="Twitter 联系徽标" />
-  </a>
-  <a href="https://instagram.com/MrGeekmister" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-生活切片-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram 联系徽标" />
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-dynamic update-111827?style=for-the-badge&logo=x&logoColor=white" alt="Twitter contact logo" />
   </a>
 </div>
 
-## 📚 致谢与灵感来源
+## 🧭 Acknowledgements & Credits
 
-这个页面借助了不少优秀工具与社区资源，也感谢所有持续分享灵感的人：
+This page leverages many excellent open-source tools and community resources, and a special thanks to everyone who continuously shares inspiration:
 
-- GitHub Emoji 与徽标生态，让表达更鲜明
-- Shields.io，让信息展示更清晰统一
-- Mermaid，让结构信息更直观
-- GitHub Stats 服务，让公开数据更具可视化表现
+- 🎨 **GitHub Emoji & Badges** – making expression more vivid → [Official Emoji List](https://github.com/ikatyang/emoji-cheat-sheet) · [Badges](https://github.com/badges/shields)
+- 🛡️ **[Shields.io](https://shields.io/)** – making information display clearer and more consistent
+- 📊 **[Mermaid](https://mermaid.js.org/)** – making structural diagrams and flowcharts more intuitive
+- 📈 **[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)** – making public data more visually presentable
 
 ---
 
 <div align="center">
-  <strong>由 Geekmister 用热爱与长期主义持续构建</strong>
+  <strong>由 Geekmister building with love and long-termism</strong>
   <br />
-  <sub>© 2026 Geekmister · 保留所有权利</sub>
+  <sub>© 2026 Geekmister · All rights reserved</sub>
 </div>
