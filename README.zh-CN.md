@@ -4,7 +4,7 @@
 
 # Geekmister
 
-**`独立开发者 · OneAI（一人公司）**  
+**独立开发者 · OneAI（一人公司）**  
 *亦为心理分析师*
 
 致力于产品开发与人工智能，以持续工作的态度推动 OneAI 实现盈利，并坚守长期主义。
@@ -12,6 +12,12 @@
 </div>
 
 ---
+
+<p align="center">
+	<a href="README.md">
+		<img src="https://img.shields.io/badge/English-🇺🇸-111827.svg?style=for-the-badge" alt="English Version" />
+	</a>
+</p>
 
 ## ✨ 个人简介
 
