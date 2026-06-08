@@ -115,7 +115,7 @@ This page leverages many excellent open-source tools and community resources, an
 ---
 
 <div align="center">
-  <strong>由 Geekmister building with love and long-termism</strong>
+  <strong>By Geekmister building with love and long-termism</strong>
   <br />
   <sub>© 2026 Geekmister · All rights reserved</sub>
 </div>
