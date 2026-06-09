@@ -36,6 +36,16 @@ I am a 🧑‍💻 full-stack independent developer and also a 🧠 psychologica
 [![Last Commit](https://img.shields.io/github/last-commit/geekmister/geekmister?style=social)]()
 [![Demo](https://img.shields.io/badge/🚀-OnlineDemo-blueviolet)](geekmister.github.io/geekmister/)
 
+### 📁 [IPlay-Compression](https://github.com/geekmister/IPlay-Compression)
+
+> 🖼️ A pure front-end, locally-running image compression toolbox. 🔒 No image uploads, no reliance on the backend. ⚡ It turns the compression tasks of frequently used images into an easily accessible entry point for quick operation.
+
+[![Status](https://img.shields.io/badge/Status-ContinuousIteration-brightgreen)]()
+[![Technology](https://img.shields.io/badge/Technology-Typescript%20%7C%20Frontend-blue)]()
+[![Stars](https://img.shields.io/github/stars/geekmister/IPlay-Compression?style=social)]()
+[![Last Commit](https://img.shields.io/github/last-commit/geekmister/IPlay-Compression?style=social)]()
+[![Demo](https://img.shields.io/badge/🚀-OnlineDemo-blueviolet)](geekmister.github.io/IPlay-Compression/)
+
 ---
 
 ## 🧭 What am i doing?
