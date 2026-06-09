@@ -30,11 +30,21 @@
 ### 📁 [geekmister](https://github.com/geekmister/geekmister)
 > 这个项目整合了我的 📂 GitHub Profile、📝 个人博客以及 💡 灵感 Issue 讨论，共同完整地塑造了我的 🧑‍💻 个人 IP。
 
-[![状态](https://img.shields.io/badge/Status-持续迭代-brightgreen)]()
-[![技术](https://img.shields.io/badge/Technology-Markdown%20%7C%20前端-blue)]()
+[![Status](https://img.shields.io/badge/Status-持续迭代-brightgreen)]()
+[![Technology](https://img.shields.io/badge/Technology-Markdown%20%7C%20前端-blue)]()
 [![Stars](https://img.shields.io/github/stars/geekmister/geekmister?style=social)]()
-[![最近提交](https://img.shields.io/github/last-commit/geekmister/geekmister?style=social)]()
-[![演示](https://img.shields.io/badge/🚀-在线演示-blueviolet)](geekmister.github.io/geekmister/)
+[![Last-Commits](https://img.shields.io/github/last-commit/geekmister/geekmister?style=social)]()
+[![Demo](https://img.shields.io/badge/🚀-在线演示-blueviolet)](geekmister.github.io/geekmister/)
+
+### 📁 [IPlay-Compression](https://github.com/geekmister/IPlay-Compression)
+
+> 🖼️ 一个纯前端、本地运行的图像压缩工具包。 🔒 不需要上传图像，也不依赖后端。 ⚡ 它将常用图像的压缩任务转化为一个易于访问的入口，以便快速操作。
+
+[![Status](https://img.shields.io/badge/Status-持续迭代-brightgreen)]()
+[![Technology](https://img.shields.io/badge/Technology-Typescript%20%7C%20前端-blue)]()
+[![Stars](https://img.shields.io/github/stars/geekmister/IPlay-Compression?style=social)]()
+[![Last-Commits](https://img.shields.io/github/last-commit/geekmister/IPlay-Compression?style=social)]()
+[![Demo](https://img.shields.io/badge/🚀-在线演示-blueviolet)](geekmister.github.io/IPlay-Compression/)
 
 ---
 
