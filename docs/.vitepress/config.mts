@@ -70,16 +70,8 @@ export default defineConfig({
         ],
     },
     footer: {
-      message: `
-        <div style="display:flex;align-items:center;gap:16px;justify-content:center;flex-wrap:wrap;">
-          <img src="/wechat-official-account-qrcode.jpg" alt="扫码关注公众号" width="132" />
-          <div style="min-width:180px;line-height:1.6;">
-            <strong>关注公众号</strong><br />
-            扫码获取最新学习资源和更新。
-          </div>
-        </div>
-      `,
-      copyright: "© 2026 Geekmister",
+      message: "",
+      copyright: '© 2026 Geekmister 版权所有 | <a href="https://beian.miit.gov.cn/" style="text-decoration: none;" target="_blank" rel="noreferrer noopener">粤ICP备2024321281号</a>',
     },
     socialLinks: [
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
